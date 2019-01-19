@@ -1,0 +1,12 @@
+.disable{
+	display: none;
+}
+.form-text{
+	text-align: center;
+}
+.error{
+	border: 1px solid red;
+}
+.warning{
+	color: red;
+}

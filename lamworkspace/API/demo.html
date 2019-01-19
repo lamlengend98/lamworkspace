@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <title>Add Review</title>
+        <link rel="shortcut icon" href="https://doc-08-9k-docs.googleusercontent.com/docs/securesc/92t7fe362g2rqt5dbrqd4gmdijtrsaam/42baofdd97r4us85mivog05jba0e168d/1543737600000/13429980016914413404/13429980016914413404/1oJCTzXA_EaL0lRvTHlyMvk1wJKRWAh6v?e=download&nonce=h0g2f0b5dg56o&user=13429980016914413404&hash=sgsrrc51rpgku38lfdauo5jvfhlgl13e">
+
+    </head>
+    <body>
+        <div class="navbar navbar-expand-md bg-success navbar-dark">
+            <div class="container">
+                <a class="navbar-brand " href="admin-review.htm">
+                    Review
+                </a>
+                <a class="navbar-brand" href="admin-top10.htm">
+                    Top 10
+                </a>    
+                <a class="navbar-brand" href="admin-comingsoon.htm">
+                    Coming Soon
+                </a>
+                <a class="navbar-brand" href="admin-sharelink.htm">
+                    Share Link
+                </a>
+                <a class="navbar-brand" href="admin-user.htm">
+                    User
+                </a>
+            </div>
+        </div>
+        <form:form action="add.htm" method="POST" modelAttribute="review">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="index.html">Add new post</a>
+            </nav>
+            
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="name" placeholder="Name" />
+                <input type="text" class="form-control" placeholder="Name">
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="title" placeholder="Title" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="summary" placeholder="Summary" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="category" placeholder="Category" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:textarea cssStyle="height: 200px" cssClass="form-control" path="content" placeholder="Content" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="img" placeholder="Img" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:input cssClass="form-control" path="vname" placeholder="Vietnamese Name" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:textarea cssStyle="height: 200px" cssClass="form-control" path="information" placeholder="Information" />
+            </div>
+            <div class="form-group" style="margin: 1% 0 0 33.9%; width: 500px">
+                <form:textarea cssStyle="height: 200px" cssClass="form-control" path="noidung" placeholder="Plot" />
+            </div>
+            <button style="margin: 1% 0 0 33.9%" type="submit" name="update" class="btn btn-primary">Add</button>
+        </form:form>
+    </body>
+</html>

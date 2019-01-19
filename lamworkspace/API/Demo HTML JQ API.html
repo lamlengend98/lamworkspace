@@ -1,0 +1,97 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Demo</title>
+		<link rel="stylesheet" type="text/css" href="demoAPI.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="demoAPI.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	</head>
+	<body>
+		
+		<!-- OPTIONS -->
+
+		<div style="text-align: center; margin: 2% 0;">
+			<button id="get" style="width: 100px" class="btn btn-info">GET</button>
+			<button id="post" style="width: 100px" class="btn btn-info">POST</button>
+			<button id="put" style="width: 100px" class="btn btn-info">PUT</button>
+			<button id="delete" style="width: 100px" class="btn btn-info">DELETE</button>
+		</div>
+		
+		<!-- GET -->
+
+		<div id="get" class="container disable" style="text-align: center;">
+			<table id="get-table" class="table" style="margin-left: 10%; width: 80%; text-align: center">
+		        <thead>
+		            <tr>
+		                <th scope="col">ID</th>
+		                <th scope="col">Name</th>
+		                <th scope="col">Age</th>
+		            </tr>
+		        </thead>
+		        
+		    </table>	
+		   
+		</div>
+
+		
+
+		<!-- POST -->
+
+		<div id="post" class="container disable" style="text-align: center;">
+			<div class="form-group " >
+				<div>
+					Name
+	            <input id="post-name" type="text" class="form-control form-text error" style="margin: 1% 0 1% 27.7%;width: 500px">
+					<p id="warning-name" class="warning disable">Please fill in this field</p>
+				</div>
+				
+	            Age
+				<input id="post-age" type="number" class="form-control form-text" style="margin: 1% 0 2% 27.7%;width: 500px">
+				<p id="warning-age" class="warning disable">Please fill in this field</p>
+				<input id="submit" class="btn btn-primary" type="submit" value="Submit">
+	        </div>
+	        <div id="response"></div>
+		</div>
+			
+		<!-- PUT -->
+
+		<div id="put" class="container disable" style="text-align: center;">
+			<div class="form-group" >
+				ID
+				<input id="put-id" type="text" class="form-control form-text" style="margin: 1% 0 1% 27.7%;width: 500px">
+				<p id="warning-put-id" class="warning disable">Invailable ID</p>
+				Name
+	            <input id="put-name" type="text" class="form-control form-text" style="margin: 1% 0 1% 27.7%;width: 500px">
+	            <p id="warning-put-name" class="warning disable">Invailable name</p>
+	            Age
+				<input id="put-age" type="number" class="form-control form-text" style="margin: 1% 0 2% 27.7%;width: 500px">
+				<p id="warning-put-age" class="warning disable">Invailable age</p>
+				<input id="update" class="btn btn-warning" type="submit" value="Update">
+	        </div>
+		</div>
+
+		<!-- DELETE -->
+
+		<div id="delete" class="container disable" style="text-align: center">
+			<div class="form-group">
+				ID
+				<input id="delete-id" type="number" class="form-control form-text" style="margin: 1% 0 1% 27.7%;width: 500px">
+				<p id="warning-delete-id" class="warning disable">Invailable ID</p>
+				<input id="delete" class="btn btn-danger" type="submit" value="Delete">
+			</div>
+		</div>
+
+		<!-- jQuery -->
+
+		<script type="text/javascript">
+			
+		</script>
+
+
+
+		
+	</body>
+	</html>
