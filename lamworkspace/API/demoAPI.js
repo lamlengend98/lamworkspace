@@ -1,121 +1,122 @@
 $(document).ready(function(){
 
+	function clear() {
+		const panels = ['div#post','div#get','div#put','div#delete'];
+		panels.forEach(function(item) {
+			$(item).addClass("disable");			
+		})
+		
+	}
+	function showPanel(id) {
+		clear();
+		$(id).removeClass("disable");
+	}
+
 	// GET
 	function get_data(){
-		$("div#get").removeClass("disable");
-		$("div#post").addClass("disable");
-		$("div#put").addClass("disable");
-		$("div#delete").addClass("disable");
+		showPanel('div#get');
 		$.get( 
 			"http://127.0.0.1:8888/student",function( data ) {
-				var student;
-					for (var i = 0; i < data.length; i++) {
-						student += '<tbody><th>'+data[i].id+'</th><th>'+data[i].name+'</th><th>'+data[i].age+'</th><tbody>'
-					}
-			$('table#get-table').html(student);
+				var student = "<tr><th>Id</th><th>Name</th><th>Age</th></tr>";
+				for (var i = 0; i < data.length; i++) {
+					student += '<tr><td>'+data[i].id+'</td><td>'+data[i].name+'</td><td>'+data[i].age+'</td><tr>'
+				}
+				$('table#get-table').html(student);
 			});
-
-		}
+	}
 	$("#get").click(function(){
-	get_data();
+		get_data();
 	});
-		
+
 
 	// POST
 	function post_data(){
-		$("div#post").removeClass("disable");
-	$("div#get").addClass("disable");
-	$("div#put").addClass("disable");
-	$("div#delete").addClass("disable");
-	$("#submit").click(()=>{
-		var name = $("#post-name")[0].value;
-		var age = $("#post-age")[0].value
-		var data = {name : name,
-					age: age};
-		if (name == "") {
-		  	$("p#warning-name").removeClass("disable");
-		  	$("input#post-name").css({
-		  		"border":"1px solid red"
-		  	});
-		  	if(age == ""){
-		  		$("p#warning-age").removeClass("disable");
-			  	$("input#post-age").css({
-			  		"border":"1px solid red"
-			  	});
-  			}
-		  	return false;
-	  	}
-	  	
+		showPanel('div#post');
+		$("#submit").click(()=>{
+			var name = $("#post-name")[0].value;
+			var age = $("#post-age")[0].value
+			var data = {name : name,
+				age: age};
+				if (name == "") {
+					$("p#warning-name").removeClass("disable");
+					$("input#post-name").css({
+						"border":"1px solid red"
+					});
+					if(age == ""){
+						$("p#warning-age").removeClass("disable");
+						$("input#post-age").css({
+							"border":"1px solid red"
+						});
+					}
+					return false;
+				}
 
-		if ($.isNumeric(age) == false) {
-			alert("Age is a number!!!");
-			return false;
-		}
-		
-		$.ajax({
-		  method: "POST",
-		  url: "http://127.0.0.1:8888/student",
-		  data:JSON.stringify(data),
-		  contentType: 'application/json',
-		  success: function(){
-		  	get_data();
-		  	alert("Add successfully");
-		  	$("p#warning-age, p#warning-name").addClass("disable");
-		  	$("input#post-age, input#post-name").css({
-		  		"border":"1px solid #ced4da"
-		  	});
-		  }
 
-		}).done(function( msg ) {
-		    var student = JSON.stringify(msg);
-		    alert(student);
-		    
-		  }).fail((err)=>{
-		  	console.log(err);
-		  });
-		});
+				if ($.isNumeric(age) == false) {
+					alert("Age is a number!!!");
+					return false;
+				}
+
+				$.ajax({
+					method: "POST",
+					url: "http://127.0.0.1:8888/student",
+					data:JSON.stringify(data),
+					contentType: 'application/json',
+					success: function(){
+						get_data();
+						alert("Add successfully");
+						$("p#warning-age, p#warning-name").addClass("disable");
+						$("input#post-age, input#post-name").css({
+							"border":"1px solid #ced4da"
+						});
+					}
+
+				}).done(function( msg ) {
+					var student = JSON.stringify(msg);
+
+				}).fail((err)=>{
+					console.log(err);
+				});
+			});
 	}
 	$("#post").click(function(){
-	post_data();
-	
+		post_data();
+
 	});
 
 	// PUT
 	$("#put").click(function(){
-		$("div#get").addClass("disable");
-		$("div#post").addClass("disable");
-		$("div#put").removeClass("disable");
-		$("div#delete").addClass("disable");
+		showPanel('div#put');
 		$("#update").click(function(){
 			//validate
 			var id = $('#put-id')[0].value;
 			var name = $('#put-name')[0].value;
 			var age = $('#put-age')[0].value;
 			var data = {id: id,
-						name : name,
-						age : age}
-			if($.isNumeric(id) == false || id == ""){
-				$('p#warning-put-id').removeClass('disable');
-				$('input#put-id').css({
-					"border":"1px solid red"
-				});
+				name : name,
+				age : age}
+				if($.isNumeric(id) == false || id == ""){
+					$('p#warning-put-id').removeClass('disable');
+					$('input#put-id').css({
+						"border":"1px solid red"
+					});
 
-			}
-			if(name == ""){
-				$('p#warning-put-name').removeClass('disable');
-				$('input#put-name').css({
-					"border":"1px solid red"
-				});
-			}
-			if($.isNumeric(age) == false || id == ""){
-				$('p#warning-put-age').removeClass('disable');
-				$('input#put-age').css({
-					"border":"1px solid red"
-				});
-				return false;
-			}
-			alert($.isNumeric(age));
-			
+				}
+				if(name == ""){
+					$('p#warning-put-name').removeClass('disable');
+					$('input#put-name').css({
+						"border":"1px solid red"
+					});
+				}
+				if($.isNumeric(age) == false || id == ""){
+					$('p#warning-put-age').removeClass('disable');
+					$('input#put-age').css({
+						"border":"1px solid red"
+					});
+					return false;
+				}
+				// alert($.isNumeric(age));
+
 
 			//api
 			/*let checkID = (id)=> {
@@ -130,15 +131,15 @@ $(document).ready(function(){
 							}
 						}
 					);
-			}*/
-			
-			$.ajax({
-				method: "PUT",
-				url: "http://127.0.0.1:8888/student/"+id,
-				data: JSON.stringify(data),
-				contentType: 'application/JSON',
-				
-			}).done(async (result)=>{
+				}*/
+
+				$.ajax({
+					method: "PUT",
+					url: "http://127.0.0.1:8888/student/"+id,
+					data: JSON.stringify(data),
+					contentType: 'application/JSON',
+
+				}).done(async (result)=>{
 				// console.log(result);
 				// console.log(checkID(id));
 				var student;
@@ -155,7 +156,7 @@ $(document).ready(function(){
 
 						}
 					}
-				);
+					);
 				// console.log(flag);
 				if(flag){
 					alert("Update successfully");
@@ -169,45 +170,45 @@ $(document).ready(function(){
 					alert("ID not exist");
 				}
 			})
-		});
+			});
 	});
 
 	// DELETE
 	$("#delete").click(function(){
-		$("div#get").addClass("disable");
-		$("div#post").addClass("disable");
-		$("div#put").addClass("disable");
-		$("div#delete").removeClass("disable");
+		showPanel('div#delete');
 		$("input#delete").click(function(){
 			
 			// check empty
 			var data = $('#delete-id').val();
 			if($.isNumeric(data) == false || data == ""){
 				$("p#warning-delete-id").removeClass("disable");
-		  	$("input#delete-id").css({
-		  		"border":"1px solid red"
-		  	});
-		  	return false;
+				$("input#delete-id").css({
+					"border":"1px solid red"
+				});
+				return false;
 			}
+			
 			//
 			$.ajax({
 				method: "DELETE",
 				url: "http://127.0.0.1:8888/student/"+data,
 				success: function(){
+					alert("Delete successfully");
 					get_data();
 					$("p#warning-delete-id").addClass("disable");
-				  	$("input#delete-id").css({
-				  		"border":"1px solid #ced4da"
-				  	});
+					$("input#delete-id").css({
+						"border":"1px solid #ced4da"
+					});
+					
 				},
 				error: function(){
 					alert("Invailable ID\nPlease insert again!!!");
 					return false;
 				}
-		/*$('table#get-table').html(student);*/
+				/*$('table#get-table').html(student);*/
 				
 			});
-		
+
 
 		})
 		
