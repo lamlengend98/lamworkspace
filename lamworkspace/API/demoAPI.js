@@ -24,65 +24,75 @@ $(document).ready(function(){
 				$('table#get-table').html(student);
 			});
 	}
+
 	$("#get").click(function(){
 		get_data();
 	});
+
+	$("#post").click(function(){
+		post_data();
+
+	});
+
+
+	function validForm(formData) {
+		if (formData.name == "") {
+			$("p#warning-name").removeClass("disable");
+			$("input#post-name").css({
+				"border":"1px solid red"
+			});
+			if(formData.age == ""){
+				$("p#warning-age").removeClass("disable");
+				$("input#post-age").css({
+					"border":"1px solid red"
+				});
+			}
+			return false;
+		}
+
+
+		if (!$.isNumeric(formData.age)) {
+			alert("Age is a number!!!");
+			return false;
+		}
+	}
 
 
 	// POST
 	function post_data(){
 		showPanel('div#post');
 		$("#submit").click(()=>{
-			var name = $("#post-name")[0].value;
-			var age = $("#post-age")[0].value
-			var data = {name : name,
-				age: age};
-				if (name == "") {
-					$("p#warning-name").removeClass("disable");
-					$("input#post-name").css({
-						"border":"1px solid red"
+
+			var data = {
+				name : $("#post-name").val(), 
+				age: $("#post-age").val()
+			};
+
+			if (!validForm(data)) return false;
+
+			$.ajax({
+				method: "POST",
+				url: "http://127.0.0.1:8888/student",
+				data:JSON.stringify(data),
+				contentType: 'application/json',
+				success: function(){
+					get_data();
+					alert("Add successfully");
+					$("p#warning-age, p#warning-name").addClass("disable");
+					$("input#post-age, input#post-name").css({
+						"border":"1px solid #ced4da"
 					});
-					if(age == ""){
-						$("p#warning-age").removeClass("disable");
-						$("input#post-age").css({
-							"border":"1px solid red"
-						});
-					}
-					return false;
 				}
 
-
-				if ($.isNumeric(age) == false) {
-					alert("Age is a number!!!");
-					return false;
-				}
-
-				$.ajax({
-					method: "POST",
-					url: "http://127.0.0.1:8888/student",
-					data:JSON.stringify(data),
-					contentType: 'application/json',
-					success: function(){
-						get_data();
-						alert("Add successfully");
-						$("p#warning-age, p#warning-name").addClass("disable");
-						$("input#post-age, input#post-name").css({
-							"border":"1px solid #ced4da"
-						});
-					}
-
-				}).done(function( msg ) {
-					var student = JSON.stringify(msg);
-
-				}).fail((err)=>{
-					console.log(err);
-				});
+			}).done(function( msg ) {
+				var student = JSON.stringify(msg);
+				Lam261198
+			}).fail((err)=>{
+				console.log(err);
 			});
+		});
 	}
-	$("#post").click(function(){
-		post_data();
-
-	});
+	
 
 	// PUT
 	$("#put").click(function(){
@@ -213,7 +223,5 @@ $(document).ready(function(){
 		})
 		
 	});
-
-
 
 });

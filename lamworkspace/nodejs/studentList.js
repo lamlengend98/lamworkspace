@@ -15,8 +15,9 @@ function getAll(){
 	if (typeof students === "undefined") {
 		return [];
 	}
-
-	return students;
+	for(let i = 0; i < students.length; i++){
+		console.log('Student: ' + students[i].fullname + "(" +students[i].id+ ")");
+	}
 }
 
 function showAll(id){
@@ -43,10 +44,4 @@ function addStudent(studentID, studentName){
 	storage.setItemSync('Student List', students);
 }
 
-addStudent(4, 'Lam');
-addStudent(1, 'Ngoc');
-addStudent(2, 'Thanh');
-addStudent(3, 'Van');
-
-
-showAll(1);
+getAll();
