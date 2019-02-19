@@ -28,6 +28,9 @@ ol, ul {
   height: 40px;
   width: 200px;
 }
+.container{
+  width: 50%;
+}
 
 #disable{
   display: none;

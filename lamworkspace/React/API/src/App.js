@@ -1,7 +1,71 @@
 import React, { Component } from 'react'
 import './App.css'
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Redirect } from 'react-router-dom'
 import axios from 'axios'
+import { Button } from 'react-bootstrap';
+import { Table } from 'react-bootstrap';
+import { Form } from 'react-bootstrap';
+// import { ConnectionOptions } from 'mysql';
+// import { connect } from 'net';
+
+// class DBConnect extends ConnectionOptions{
+//   host: '127.0.0.1';
+//   port: '3306';
+//   user: 'root';
+//   password: 'root@123';
+//   database: 'student';
+//   charset: 'UTF-8'
+// }
+
+function Show() {
+  return (
+    <Router>
+      <div className="container">
+        <div style={Object.assign(margin, text_center)}>
+          <Link to="/get"><Button variant="dark" id="get" style={width}>GET</Button></Link>
+          <Link to="/post"><Button variant="dark" id="post" style={width}>POST</Button></Link>
+          <Link to="/put"><Button variant="dark" id="put" style={width}>PUT</Button></Link>
+          <Link to="/delete"><Button variant="dark" id="delete" style={width}>DELETE</Button></Link>
+        </div>
+
+        <Route path="/get" component={Gett} />
+        <Route path="/post" component={Postt} />
+        <Route path="/put" component={Putt} />
+        <Route path="/delete" component={Deletee} />
+      </div>
+    </Router>
+  );
+}
+
+function Gett() {
+  return (
+    <div>
+      <Get />
+    </div>
+  );
+}
+function Postt() {
+  return (
+    <div>
+      <Post />
+    </div>
+  );
+}
+function Putt() {
+  return (
+    <div>
+      <Put />
+    </div>
+  );
+}
+function Deletee() {
+  return (
+    <div>
+      <Delete />
+    </div>
+  );
+}
 
 //GET
 class Get extends React.Component {
@@ -23,9 +87,9 @@ class Get extends React.Component {
 
   render() {
     return (
-
+      <div className="container">
       <div style={text_center}>
-        <table style={width1}>
+        <Table style={width1}>
           <tr>
             <th>ID</th>
             <th>Name</th>
@@ -39,7 +103,8 @@ class Get extends React.Component {
               <td key={users.id}>{users.age}</td>
             </tr>
           )}
-        </table>
+        </Table>
+      </div>
       </div>
 
     )
@@ -50,6 +115,8 @@ class Get extends React.Component {
 class Delete extends Component {
   state = {
     id: 0,
+    isDeleted: false,
+    idError: 'Please insert an ID'
   }
 
   handleChange = event => {
@@ -58,23 +125,51 @@ class Delete extends Component {
 
   handleSubmit = event => {
     event.preventDefault();
+    const isValid = this.validate();
 
-    axios
-      .delete('http://localhost:8888/student/' + this.state.id)
-      .then(response => {
-        alert('Delete successfully')
-        console.log(response);
-        console.log(response.data);
-      })
+    if (isValid) {
+      // if(event.local.conn.query('delete from student where id = '+this.state.id)){
+      //   console.log('true')
+      // }
+      axios
+        .delete('http://localhost:8888/student/' + this.state.id)
+        .then(response => {
+          alert('Delete successfully!!');
+          this.setState({ isDeleted: true })
+        })
+    } else {
+      alert(this.state.idError)
+    }
+
+  }
+
+  validate = () => {
+    let idError = "";
+
+    if (!this.state.id) {
+      idError = "Please insert an ID";
+    }
+    if (idError) {
+      this.setState({ idError: idError })
+      return false;
+    }
+    console.log(idError)
+    return true;
   }
 
   render() {
+    if (this.state.isDeleted == true) {
+      return <Redirect to="/get" />
+    }
     return (
       <div>
-        <form style={text_center} onSubmit={this.handleSubmit}>
-          <input type="text" placeholder="ID" onChange={this.handleChange} />
-          <input type="submit" value="Delete" />
-        </form>
+        <Form style={text_center} onSubmit={this.handleSubmit}>
+          <Form.Group>
+            <Form.Control type="number" style={form_control} placeholder="ID" onChange={this.handleChange} />
+            <Button variant="danger" type="submit" >Delete</Button>
+          </Form.Group>
+
+        </Form>
       </div>
     )
   }
@@ -84,7 +179,10 @@ class Delete extends Component {
 class Post extends Component {
   state = {
     name: '',
-    age: 0
+    age: 0,
+    isAdded: false,
+    isError: 'Please insert value to all fields'
+
   }
 
   handleName = event => {
@@ -94,44 +192,73 @@ class Post extends Component {
     this.setState({ age: event.target.value })
   }
 
+  validate = () => {
+    let isError = "";
+
+
+    if (!this.state.name || !this.state.age) {
+      isError = "Please insert value to all fields";
+
+    } if (isError) {
+      this.setState({ isError: isError });
+      return false;
+    }
+    return true;
+  }
+
   handleSubmit = event => {
     event.preventDefault();
 
     const name = this.state.name;
     const age = this.state.age;
 
+    const isValid = this.validate()
+    if (isValid) {
+      // this.setState(defaultState);
 
-    axios
-      .post('http://localhost:8888/student/', { name, age })
-      .then(response => {
-        console.log(response.data)
-      })
+      axios
+        .post('http://localhost:8888/student/', { name, age })
+        .then(response => {
+          alert("Add successfully!!")
+          this.setState({ isAdded: true })
+        }).catch((err) => {
+          console.log(err)
+        })
+    } else {
+      alert(this.state.isError)
+    }
+
+
   }
   render() {
+    if (this.state.isAdded == true) {
+      return <Redirect to="/get" />
+    }
     return (
       <div>
-        <form style={text_center} onSubmit={this.handleSubmit}>
-          <label>
-            <input type="text" placeholder="Name" onChange={this.handleName} />
-          </label>
-          <br></br>
-          <label>
-            <input type="text" placeholder="Age" onChange={this.handleAge} />
-          </label>
-          <br></br>
-          <button type="submit">Add</button>
-        </form>
+        <Form style={text_center} onSubmit={this.handleSubmit}>
+          <Form.Group>
+            <Form.Control type="text" style={form_control} placeholder="Name" onChange={this.handleName} />
+            <Form.Control type="number" style={form_control} placeholder="Age" onChange={this.handleAge} />
+            <Button variant="info" type="submit" >Add</Button>
+          </Form.Group>
+
+        </Form>
       </div>
     )
   }
 }
+
+
 
 //PUT
 class Put extends Component {
   state = {
     id: 0,
     name: '',
-    age: 0
+    age: 0,
+    isUpdated: false,
+    isError: 'Please insert value to all fields'
   }
 
   handleName = event => {
@@ -143,6 +270,17 @@ class Put extends Component {
   handleAge = event => {
     this.setState({ age: event.target.value })
   }
+  validate = () => {
+    let isError = '';
+
+    if (!this.state.id || !this.state.name || !this.state.age) {
+      isError = 'Please insert value to all fieldsror'
+    } if (isError) {
+      this.setState({ isError: isError })
+      return false;
+    }
+    return true;
+  }
 
   handleSubmit = event => {
     event.preventDefault();
@@ -150,32 +288,35 @@ class Put extends Component {
     const name = this.state.name;
     const age = this.state.age;
     const id = this.state.id;
+    const isValid = this.validate();
+    if (isValid) {
+      axios
+        .put('http://localhost:8888/student/' + id, { id, name, age })
+        .then(response => {
+          alert('Update successfully!!')
+          this.setState({ isUpdated: true })
+        })
+    } else{
+      alert(this.state.isError)
+    }
 
-
-    axios
-      .put('http://localhost:8888/student/'+id, {id,name,age})
-      .then(response => {
-        console.log(response.data)
-      })
   }
   render() {
+
+    if (this.state.isUpdated == true) {
+      return <Redirect to="/get" />
+    }
     return (
       <div>
-        <form style={text_center} onSubmit={this.handleSubmit}>
-          <label>
-            <input type="text" placeholder="ID" onChange={this.handleID} />
-          </label>
-          <br></br>
-          <label>
-            <input type="text" placeholder="Name" onChange={this.handleName} />
-          </label>
-          <br></br>
-          <label>
-            <input type="text" placeholder="Age" onChange={this.handleAge} />
-          </label>
-          <br></br>
-          <button type="submit">Update</button>
-        </form>
+        <Form style={text_center} onSubmit={this.handleSubmit}>
+          <Form.Group>
+            <Form.Control type="number" style={form_control} placeholder="ID" onChange={this.handleID} />
+            <Form.Control type="text" style={form_control} placeholder="Name" onChange={this.handleName} />
+            <Form.Control type="number" style={form_control} placeholder="Age" onChange={this.handleAge} />
+            <Button variant="success" type="submit" >Update</Button>
+          </Form.Group>
+
+        </Form>
       </div>
     )
   }
@@ -186,63 +327,17 @@ const width = {
   marginLeft: '10px'
 }
 const width1 = {
-  marginLeft: '10%', width: '80%', textAlign: 'center'
+  marginLeft: '', width: '100%', textAlign: 'center'
 }
 const text_center = {
   textAlign: 'center'
 }
+const form_control = {
+  margin: '1% 0 1% 22%', width: '433px'
+}
 const margin = {
   margin: '2% 0'
 }
-function Show() {
-  return (
-    <Router>
-      <div>
-        <div style={Object.assign(margin, text_center)}>
-          <Link to="/get"><button id="get" style={width}>GET</button></Link>
-          <Link to="/post"><button id="post" style={width}>POST</button></Link>
-          <Link to="/put"><button id="put" style={width}>PUT</button></Link>
-          <Link to="/delete"><button id="delete" style={width}>DELETE</button></Link>
-        </div>
 
-        <Route path="/get" component={Get1} />
-        <Route path="/post" component={Post1} />
-        <Route path="/put" component={Put1} />
-        <Route path="/delete" component={Delete1} />
-      </div>
-    </Router>
-  );
-
-
-}
-
-function Get1() {
-  return (
-    <div>
-      <Get />
-    </div>
-  );
-}
-function Post1() {
-  return (
-    <div>
-      <Post />
-    </div>
-  );
-}
-function Put1() {
-  return(
-    <div>
-      <Put />
-    </div>
-  );
-}
-function Delete1() {
-  return (
-    <div>
-      <Delete />
-    </div>
-  );
-}
 
 export default Show;
