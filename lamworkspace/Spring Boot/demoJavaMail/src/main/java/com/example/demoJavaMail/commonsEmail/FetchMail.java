@@ -67,8 +67,8 @@ public class FetchMail {
     public static void main(String[] args) {
         String host = "pop.gmail.com";
         String mailStoreType = "pop3";
-        String user = "thanhlamkma@gmail.com";
-        String password = "Lam261198";
+        String user = "kamenriderstrongertora@gmail.com";
+        String password = "lam261198";
 
         fetch(host, mailStoreType, user, password);
     }

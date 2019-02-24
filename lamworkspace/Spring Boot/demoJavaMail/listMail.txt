@@ -1,0 +1,668 @@
+
+---------------------------------
+Email Number 1
+Subject: Nguyễn, hãy khai thác Tài khoản Google mới của bạn nhiều hơn
+From: =?UTF-8?B?TmjDs20gcGjhu6UgdHLDoWNoIGPhu5luZyDEkeG7k25nIEdvb2dsZQ==?= <googlecommunityteam-noreply@google.com>
+Text: javax.mail.internet.MimeMultipart@30b8a058
+---------------------------------
+Email Number 2
+Subject: MEGA Account Activation Required
+From: MEGA <welcome@mega.nz>
+Text: javax.mail.internet.MimeMultipart@7494e528
+---------------------------------
+Email Number 3
+Subject: Welcome to MEGA
+From: MEGA <support@mega.nz>
+Text: javax.mail.internet.MimeMultipart@4bbfb90a
+---------------------------------
+Email Number 4
+Subject: BIGBANG: "BIGBANG 10 THE EXHIBITION : A TO Z IN TAIPEI"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@7c29daf3
+---------------------------------
+Email Number 5
+Subject: BIGBANG: "TAEYANG - WHITE NIGHT 'Intro' M/V"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@9660f4e
+---------------------------------
+Email Number 6
+Subject: BIGBANG: "TAEYANG - ‘DARLING' M/V"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@5a8806ef
+---------------------------------
+Email Number 7
+Subject: BIGBANG: "TAEYANG - ‘DARLING' 0827 SBS Inkigayo"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@6c49835d
+---------------------------------
+Email Number 8
+Subject: Facebook email verification
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@5e853265
+---------------------------------
+Email Number 9
+Subject: Facebook primary email changed to kamenriderstrongertora@gmail.com
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@67205a84
+---------------------------------
+Email Number 10
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@7d0587f1
+---------------------------------
+Email Number 11
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@5d76b067
+---------------------------------
+Email Number 12
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@2a17b7b6
+---------------------------------
+Email Number 13
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@4f063c0a
+---------------------------------
+Email Number 14
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@1e6d1014
+---------------------------------
+Email Number 15
+Subject: You were removed as an admin on Kaze Sub Team
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@76707e36
+---------------------------------
+Email Number 16
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@1f554b06
+---------------------------------
+Email Number 17
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 70% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-1/p50x50/13680646_1122829691124535_1136021255530064774_n.png?_nc_ad=z-m&amp;oh=8c9837100a6aae7f14476d4e6be2106e&amp;oe=5A57007D" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS8%3D&amp;c=903974456371113&amp;m=ARyru68_wc8q9LJQ&amp;n=1662040068129796907&amp;p=page_redirect_in_post_preview&amp;t=1475813685845785&amp;aref=1662040068129796907&amp;medium=email&amp;mid=558e7991d2ffeG5af47c4bcf4dG1710c0a2d757b32bG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">Power Rangers Vietnam Remaking</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Lam Nguyen<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS9wb3N0cy8xNjM1MDAzMTAzMjQwNTIyLw%3D%3D&amp;c=903974456371113&amp;m=ARwTHEtIJafUvNEa&amp;n=1662040068129796907&amp;p=post_redirect_in_post_preview&amp;t=1475813685845785&amp;aref=1662040068129796907&amp;medium=email&amp;mid=558e7991d2ffeG5af47c4bcf4dG1710c0a2d757b32bG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Tuesday, 5 September 2017 at 12:32" data-utime="1504589528"><span class="timestampContent">5 September at 12:32</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Do một vài lý do cá nhân, nên anh JU-NE sẽ không hoạt động trong thời gian tới. Thay vào đó, mình sẽ tiếp quản page
+Ninja Steel sẽ drop, ít nhất là cho tới lúc anh JU-NE quay trở lại,
+Mình sẽ tiếp tục series Dino Thunder
+Mọi thông tin vui lòng liên hệ qua inbox của page</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS9wb3N0cy8xNjM1MDAzMTAzMjQwNTIyLw%3D%3D&amp;c=903974456371113&amp;m=ARwTHEtIJafUvNEa&amp;n=1662040068129796907&amp;p=post_redirect_in_post_preview&amp;t=1475813685845785&amp;aref=1662040068129796907&amp;medium=email&amp;mid=558e7991d2ffeG5af47c4bcf4dG1710c0a2d757b32bG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9NTA1MzMxMzE5NTQxMDQ1JnRhcmdldF9pZD0xNjM1MDAzMTAzMjQwNTIyJnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARyeEPkzJTmOjmvf&amp;n=1662040068129796907&amp;p=button_0&amp;t=1475813685845785&amp;aref=1662040068129796907&amp;medium=email&amp;mid=558e7991d2ffeG5af47c4bcf4dG1710c0a2d757b32bG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=1662040068129796907&amp;t=1475813685845785" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22zo%3Do%3Dl1rpgolf%22%2C%22n%22%3A%225i5u7ujh77w7jdwm%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 18
+Subject: Welcome Back to Facebook
+From: Facebook <security@facebookmail.com>
+Text: javax.mail.internet.MimeMultipart@5a1c0542
+---------------------------------
+Email Number 19
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 70% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-1/p50x50/12744184_1233314103364685_3924364377347822973_n.png?_nc_ad=z-m&amp;oh=66bad6441a516581f4c9d023a1b31da4&amp;oe=5A5A1095" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARxVFZKCdg8xzRr_&amp;n=7149716080513622141&amp;p=page_redirect_in_post_preview&amp;t=1383928638371888&amp;aref=7149716080513622141&amp;medium=email&amp;mid=55912fb99d801G5af47c4bcf4dG6338e4e4f7e9a07dG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODAzNzc0Mjg2MzE4NjYxLw%3D%3D&amp;c=903974456371113&amp;m=ARy0rufuSNZFZJq9&amp;n=7149716080513622141&amp;p=post_redirect_in_post_preview&amp;t=1383928638371888&amp;aref=7149716080513622141&amp;medium=email&amp;mid=55912fb99d801G5af47c4bcf4dG6338e4e4f7e9a07dG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Monday, 11 September 2017 at 20:16" data-utime="1505135813"><span class="timestampContent">11 September at 20:16</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Các loại fansub hiện nay.</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODAzNzc0Mjg2MzE4NjYxLw%3D%3D&amp;c=903974456371113&amp;m=ARy0rufuSNZFZJq9&amp;n=7149716080513622141&amp;p=post_redirect_in_post_preview&amp;t=1383928638371888&amp;aref=7149716080513622141&amp;medium=email&amp;mid=55912fb99d801G5af47c4bcf4dG6338e4e4f7e9a07dG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fhan2-2.fna.fbcdn.net/safe_image.php?d=AQCxE66lZkX47x1b&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fhan2-2.fna.fbcdn.net%2Fv%2Ft1.0-9%2F21617537_1803773172985439_8198265182212397096_n.jpg%3F_nc_ad%3Dz-m%26oh%3Dd02927d0a54253bf4a10086ca87f84fb%26oe%3D5A54D5DB&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQB-H4-bJ_WNcWzd" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODAzNzc0Mjg2MzE4NjYxJnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARz9rVGGPYE80dgv&amp;n=7149716080513622141&amp;p=button_0&amp;t=1383928638371888&amp;aref=7149716080513622141&amp;medium=email&amp;mid=55912fb99d801G5af47c4bcf4dG6338e4e4f7e9a07dG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=7149716080513622141&amp;t=1383928638371888" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22y%3Djj9%3Dzo0ty06%22%2C%22n%22%3A%22voo6%3Dp%3Dp%3Dgohlg1z%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 20
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 80% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-1/p50x50/13413099_980648345383021_4895464135789742109_n.jpg?_nc_ad=z-m&amp;oh=2ff5b1ac975536e48d301e75a2dbbc5e&amp;oe=5A5DB826" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzYwOTQ2OTcwMjUwMDg4OS8%3D&amp;c=903974456371113&amp;m=ARy6SMUB6mzBYgpq&amp;n=5652289994884892440&amp;p=page_redirect_in_post_preview&amp;t=1619620948110446&amp;aref=5652289994884892440&amp;medium=email&amp;mid=55925697ea932G5af47c4bcf4dG4e70f7cda09bc718G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">Tora Fansub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Long Nhật La<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzYwOTQ2OTcwMjUwMDg4OS9wb3N0cy8xMzkxMjM5Nzg3NjU3MjA2Lw%3D%3D&amp;c=903974456371113&amp;m=ARwIFTtE8ODAoc10&amp;n=5652289994884892440&amp;p=post_redirect_in_post_preview&amp;t=1619620948110446&amp;aref=5652289994884892440&amp;medium=email&amp;mid=55925697ea932G5af47c4bcf4dG4e70f7cda09bc718G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Sunday, 10 September 2017 at 22:42" data-utime="1505058174"><span class="timestampContent">10 September at 22:42</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Kamen Rider Ex-Aid - Tập 41-45 (Hết)
+
+Download tại:
+1: http://tora-fansub.blogspot.com/2017/09/kamen-rider-ex-aid-tap-41-45-het.html
+2: http://dragredersubber.blogspot.com/2017/09/kamen-rider-ex-aid-tap-41-45-het.html
+
+Download đầy đủ tại:
+1: http://tora-fansub.blogspot.com/2016/10/kamen-rider-ex-aid.html
+2: http://dragredersubber.blogspot.com/2016/10/kamen-rider-ex-aid.html
+
+Lưu ý: Phim được làm phụ đề mềm, hãy tải về để có thể xem được phụ đề
+
+ok, cảm ơn các bạn đã ngóng chờ sản phẩm từ một thằng lười như mình trong hơn một năm qua &lt;(&quot;) nói thật đây là bộ Rider đầu tiên mình hoàn thành từ A tới Y trừ công đoạn Z là mux như vậy
+
+Một năm qua Tora cũng có khá nhiều thay đổi, đặc biệt là từ khi làm Ex-Aid, page có nhiều lượt view hơn trông thấy. Mặc dù làm softsub khiến quá trình coi phim gặp khó khăn nhưng mình rất vui vì có nhiều khán giả vẫn chấp nhận tải sản phẩm của mình.
+
+Như đã thông báo từ mấy tháng trước, Ex-Aid cùng Fourze sẽ là hai bộ cuối cùng của mình trước khi rời Tora nhường lại cho người sau. Từ đây cho tới ngày 13/10, mình sẽ cố gắng hoàn thành Fourze cùng bản Bluray cho Ex-Aid
+
+về 3 phần ngoại truyện, có làm không thì vẫn chưa biết nhé :3
+
+#Al</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzYwOTQ2OTcwMjUwMDg4OS9wb3N0cy8xMzkxMjM5Nzg3NjU3MjA2Lw%3D%3D&amp;c=903974456371113&amp;m=ARwIFTtE8ODAoc10&amp;n=5652289994884892440&amp;p=post_redirect_in_post_preview&amp;t=1619620948110446&amp;aref=5652289994884892440&amp;medium=email&amp;mid=55925697ea932G5af47c4bcf4dG4e70f7cda09bc718G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-2.fna.fbcdn.net/safe_image.php?d=AQAcc2rrg13WAr3O&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-2.fna.fbcdn.net%2Fv%2Ft31.0-8%2F21587356_1391239787657206_532485575736294425_o.jpg%3F_nc_ad%3Dz-m%26oh%3Dca990c705cf9bcb0aa1b2e677cdfe85a%26oe%3D5A4CA829&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQA198TCt2AGsqJq" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9NjA5NDY5NzAyNTAwODg5JnRhcmdldF9pZD0xMzkxMjM5Nzg3NjU3MjA2JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARzW-PwYm61EwnZf&amp;n=5652289994884892440&amp;p=button_0&amp;t=1619620948110446&amp;aref=5652289994884892440&amp;medium=email&amp;mid=55925697ea932G5af47c4bcf4dG4e70f7cda09bc718G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=5652289994884892440&amp;t=1619620948110446" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22kg5qe2wem2qgn%22%2C%22n%22%3A%22y%3D2c429s__ycs__c%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 21
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 80% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-1/p50x50/13680646_1122829691124535_1136021255530064774_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=0062658e6941a5606c036401ccb3c790&amp;oe=5A57007D" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS8%3D&amp;c=903974456371113&amp;m=ARy1UcT1LlIHvM0h&amp;n=3323455817333063397&amp;p=page_redirect_in_post_preview&amp;t=1536803046413949&amp;aref=3323455817333063397&amp;medium=email&amp;mid=55963c94516e7G5af47c4bcf4dG2e1f49751ad7bee5G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">Power Rangers Vietnam Remaking</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Lâm Thành Nguyễn<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS9wb3N0cy8xNjQ4MzEzNjU4NTc2MTMzLw%3D%3D&amp;c=903974456371113&amp;m=ARzE165ic7iVVBFI&amp;n=3323455817333063397&amp;p=post_redirect_in_post_preview&amp;t=1536803046413949&amp;aref=3323455817333063397&amp;medium=email&amp;mid=55963c94516e7G5af47c4bcf4dG2e1f49751ad7bee5G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Sunday, 17 September 2017 at 22:00" data-utime="1505660427"><span class="timestampContent">Today at 22:00</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Có vẻ như sau 12 năm kể từ SPD ( 2005 ) cho tới Ninja Steel ( 2017 ) thì ước mơ trở thành 1 Ranger của Boom cũng đã trở thành hiện thực. Thay vì là 1 đặc nhiệm Orange SPD Ranger bảo vệ người dân thì nay anh đã trở thành 1 trong 3 Red Ninja Ranger chống lại Galvanax trong 1 cái tên khác. Đó là Nick
+Ảnh: Power Rangers Super Ninja Steel</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzUwNTMzMTMxOTU0MTA0NS9wb3N0cy8xNjQ4MzEzNjU4NTc2MTMzLw%3D%3D&amp;c=903974456371113&amp;m=ARzE165ic7iVVBFI&amp;n=3323455817333063397&amp;p=post_redirect_in_post_preview&amp;t=1536803046413949&amp;aref=3323455817333063397&amp;medium=email&amp;mid=55963c94516e7G5af47c4bcf4dG2e1f49751ad7bee5G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-2.fna.fbcdn.net/safe_image.php?d=AQAmxG5QL1pcxIxs&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-2.fna.fbcdn.net%2Fv%2Ft31.0-8%2F21743410_1648309991909833_2851292193993873527_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3Dfe72b6dda5441ef0a3d7c36cd389d23e%26oe%3D5A4D054C&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQCnM2rmuxSSRdA-" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9NTA1MzMxMzE5NTQxMDQ1JnRhcmdldF9pZD0xNjQ4MzEzNjU4NTc2MTMzJnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARwFwp_DAdNg0aRl&amp;n=3323455817333063397&amp;p=button_0&amp;t=1536803046413949&amp;aref=3323455817333063397&amp;medium=email&amp;mid=55963c94516e7G5af47c4bcf4dG2e1f49751ad7bee5G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=3323455817333063397&amp;t=1536803046413949" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22zizlvggicgr1z%22%2C%22n%22%3A%22h%3Dfdpeizcfcgrhp1%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 22
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 70% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-1/p80x80/12744184_1233314103364685_3924364377347822973_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=04eb00fabb3a8cf6138891bd6f69588d&amp;oe=5A3F699F" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARz_DwnbqPs9JFPt&amp;n=1332920912651016207&amp;p=page_redirect_in_post_preview&amp;t=1659576380729022&amp;aref=1332920912651016207&amp;medium=email&amp;mid=559786b8825c6G5af47c4bcf4dG127f7c820840d80fG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODEwMTc2NjY1Njc4NDIzLw%3D%3D&amp;c=903974456371113&amp;m=ARxzuk_5Uh9ww2ml&amp;n=1332920912651016207&amp;p=post_redirect_in_post_preview&amp;t=1659576380729022&amp;aref=1332920912651016207&amp;medium=email&amp;mid=559786b8825c6G5af47c4bcf4dG127f7c820840d80fG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Monday, 18 September 2017 at 11:57" data-utime="1505710654"><span class="timestampContent">Today at 11:57</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">CẬP NHẬT
+Kamen Rider Build
+~ Tập 1: Những gã hợp nhau nhất ~
+&quot;Anh không nói dối.&quot;
+-----------------
+Tải và xem phim:
+http://www.hgssub.ga/2017/08/kamen-rider-build.html
+Xem những phim khác:
+http://www.hgssub.ga/search/label/Phim
+#MiniChil</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODEwMTc2NjY1Njc4NDIzLw%3D%3D&amp;c=903974456371113&amp;m=ARxzuk_5Uh9ww2ml&amp;n=1332920912651016207&amp;p=post_redirect_in_post_preview&amp;t=1659576380729022&amp;aref=1332920912651016207&amp;medium=email&amp;mid=559786b8825c6G5af47c4bcf4dG127f7c820840d80fG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-2.fna.fbcdn.net/safe_image.php?d=AQBz8Ps-kyNZnNm7&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-2.fna.fbcdn.net%2Fv%2Ft31.0-8%2F21752605_1810175962345160_3262545119520738933_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3D9b8230b2b4e90eccc6d3e013d45dd9db%26oe%3D5A501976&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQDHTdXMNqnEN_yv" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODEwMTc2NjY1Njc4NDIzJnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARwEMmldIMRJti3U&amp;n=1332920912651016207&amp;p=button_0&amp;t=1659576380729022&amp;aref=1332920912651016207&amp;medium=email&amp;mid=559786b8825c6G5af47c4bcf4dG127f7c820840d80fG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=1332920912651016207&amp;t=1659576380729022" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22kxknqa22sbr5n%22%2C%22n%22%3A%225hidi7wh5m-_7pji%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 23
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 65% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-1/p50x50/12744184_1233314103364685_3924364377347822973_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=beeaaf67bad5bfdbd878eed67177d60c&amp;oe=5A5A1095" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARzL02Y_A2LPUX1N&amp;n=2485834552673316894&amp;p=page_redirect_in_post_preview&amp;t=1409053422547310&amp;aref=2485834552673316894&amp;medium=email&amp;mid=5598bd4f2342bG5af47c4bcf4dG227f755aea7c301eG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODEwMTk2MTEyMzQzMTQ1Lw%3D%3D&amp;c=903974456371113&amp;m=ARxvs7QyDyPbXZoD&amp;n=2485834552673316894&amp;p=post_redirect_in_post_preview&amp;t=1409053422547310&amp;aref=2485834552673316894&amp;medium=email&amp;mid=5598bd4f2342bG5af47c4bcf4dG227f755aea7c301eG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Monday, 18 September 2017 at 15:30" data-utime="1505723400"><span class="timestampContent">Yesterday at 15:30</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">CẬP NHẬT
+Kamen Rider Wizard
+~ Tập 32: Công Việc Bán Thời Gian Nguy Hiểm ~
+&quot;Đừng hòng động vào Tsucchi và những người khác.&quot;
+-----------------
+Tải và xem phim:
+http://www.hgssub.ga/2016/12/kamen-rider-wizard.html
+Xem những phim khác:
+http://www.hgssub.ga/search/label/Phim
+#MiniChil</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODEwMTk2MTEyMzQzMTQ1Lw%3D%3D&amp;c=903974456371113&amp;m=ARxvs7QyDyPbXZoD&amp;n=2485834552673316894&amp;p=post_redirect_in_post_preview&amp;t=1409053422547310&amp;aref=2485834552673316894&amp;medium=email&amp;mid=5598bd4f2342bG5af47c4bcf4dG227f755aea7c301eG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-2.fna.fbcdn.net/safe_image.php?d=AQAOIGxF1SlYRQOw&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-2.fna.fbcdn.net%2Fv%2Ft31.0-8%2F21762401_1810195499009873_6819682403721451689_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3Dab42eb16f54c37d645335188f438950f%26oe%3D5A5DC995&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQAeHHMoghoToaKR" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><table align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" bgcolor="#3a5a98" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODEwMTk2MTEyMzQzMTQ1JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARxiHIgKR6wwa1w_&amp;n=2485834552673316894&amp;p=button_0&amp;t=1409053422547310&amp;aref=2485834552673316894&amp;medium=email&amp;mid=5598bd4f2342bG5af47c4bcf4dG227f755aea7c301eG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 5px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></td></tr></table><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=2485834552673316894&amp;t=1409053422547310" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22kq5wngbnmnsgn%22%2C%22n%22%3A%22aa242kkr45r2agbn%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 24
+Subject: BIGBANG: "G-DRAGON 2017 WORLD TOUR [ACT III, M.O.T.T.E] IN EUROPE"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@396f6598
+---------------------------------
+Email Number 25
+Subject: BIGBANG: "TAEYANG 2017 WORLD TOUR 'WHITE NIGHT' - SPOT"
+From: YouTube <noreply@youtube.com>
+Text: javax.mail.internet.MimeMultipart@394e1a0f
+---------------------------------
+Email Number 26
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 65% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=1229&amp;oh=ffe6d47a70dd54866144aa71a11eca10&amp;oe=5A56B8CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARyCEqNHLou9ADKt&amp;n=6679832143084009368&amp;p=page_redirect_in_post_preview&amp;t=1470010313080181&amp;aref=6679832143084009368&amp;medium=email&amp;mid=55a36c22f1318G5af47c4bcf4dG5cb387f15fc23798G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODE5NDgxMTc4MDgxMzA1Lw%3D%3D&amp;c=903974456371113&amp;m=ARyOLZHCNf6Z-2x3&amp;n=6679832143084009368&amp;p=post_redirect_in_post_preview&amp;t=1470010313080181&amp;aref=6679832143084009368&amp;medium=email&amp;mid=55a36c22f1318G5af47c4bcf4dG5cb387f15fc23798G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Thursday, 28 September 2017 at 01:44" data-utime="1506537850"><span class="timestampContent">Today at 01:44</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Bộ có tiêu đề type lâu nhất mà tớ từng đụng vào :&lt;
+Hy vọng vẫn còn người xem phim ở đây để bõ công ngồi nghịch :&lt;
+#MiniChil</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODE5NDgxMTc4MDgxMzA1Lw%3D%3D&amp;c=903974456371113&amp;m=ARyOLZHCNf6Z-2x3&amp;n=6679832143084009368&amp;p=post_redirect_in_post_preview&amp;t=1470010313080181&amp;aref=6679832143084009368&amp;medium=email&amp;mid=55a36c22f1318G5af47c4bcf4dG5cb387f15fc23798G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fhan5-3.fna.fbcdn.net/safe_image.php?d=AQCxKpuPnemrwZXK&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fhan5-3.fna.fbcdn.net%2Fv%2Ft31.0-8%2F21994051_1819478728081550_8152475290466945011_o.png%3F_nc_ad%3Dz-m%26_nc_cid%3D1229%26oh%3Dc57b6e601763bf8a50ca3df661adb250%26oe%3D5A48A533&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQArmwvc4_vV1C5K" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><div align="center"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODE5NDgxMTc4MDgxMzA1JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARw1IHXe2_SDdDaD&amp;n=6679832143084009368&amp;p=button_0&amp;t=1470010313080181&amp;aref=6679832143084009368&amp;medium=email&amp;mid=55a36c22f1318G5af47c4bcf4dG5cb387f15fc23798G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></div><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=6679832143084009368&amp;t=1470010313080181" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22zo6divez1%3Df11%22%2C%22n%22%3A%22z9_o624fyyf0a_oc%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 27
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 70% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=c02b1a5c7fd8c1f5f196f08c6d62ccd7&amp;oe=5A7E45CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARx7PN0NXveL0hYG&amp;n=1952458020170068682&amp;p=page_redirect_in_post_preview&amp;t=1452219644833343&amp;aref=1952458020170068682&amp;medium=email&amp;mid=55a77dd62ac57G5af47c4bcf4dG1b1886398b1972caG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODIyNjc3ODIxMDk0OTc0Lw%3D%3D&amp;c=903974456371113&amp;m=ARwfi3yXmXeg5duK&amp;n=1952458020170068682&amp;p=post_redirect_in_post_preview&amp;t=1452219644833343&amp;aref=1952458020170068682&amp;medium=email&amp;mid=55a77dd62ac57G5af47c4bcf4dG1b1886398b1972caG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Sunday, 1 October 2017 at 11:28" data-utime="1506832083"><span class="timestampContent">Today at 11:28</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Phân thân thuật :v
+Hiệu ứng kia làm gọi nhớ lại Ex Aid.</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODIyNjc3ODIxMDk0OTc0Lw%3D%3D&amp;c=903974456371113&amp;m=ARwfi3yXmXeg5duK&amp;n=1952458020170068682&amp;p=post_redirect_in_post_preview&amp;t=1452219644833343&amp;aref=1952458020170068682&amp;medium=email&amp;mid=55a77dd62ac57G5af47c4bcf4dG1b1886398b1972caG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-1.fna.fbcdn.net/safe_image.php?d=AQDRcDR9moC2v92Q&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-1.fna.fbcdn.net%2Fv%2Ft31.0-8%2F22051089_1822676881095068_276016455919231984_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3D61d5868a44364546e8f44357ba653899%26oe%3D5A82BAB2&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQA-s6DPZt0LMjsC" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><div align="center"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODIyNjc3ODIxMDk0OTc0JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARwOhQ5Z2AK3aC7q&amp;n=1952458020170068682&amp;p=button_0&amp;t=1452219644833343&amp;aref=1952458020170068682&amp;medium=email&amp;mid=55a77dd62ac57G5af47c4bcf4dG1b1886398b1972caG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></div><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=1952458020170068682&amp;t=1452219644833343" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22khw7-hi7_dh-i%22%2C%22n%22%3A%225b5wwnmeeqganxna%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 28
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 65% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=c02b1a5c7fd8c1f5f196f08c6d62ccd7&amp;oe=5A7E45CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARwlbjL7M8rsvEJF&amp;n=8530491289636166807&amp;p=page_redirect_in_post_preview&amp;t=1597761763618857&amp;aref=8530491289636166807&amp;medium=email&amp;mid=55af34441d03fG5af47c4bcf4dG766264a1a653dc97G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODI3NzIyMjIzOTIzODY3Lw%3D%3D&amp;c=903974456371113&amp;m=ARzEq3pEoaFOtWxA&amp;n=8530491289636166807&amp;p=post_redirect_in_post_preview&amp;t=1597761763618857&amp;aref=8530491289636166807&amp;medium=email&amp;mid=55af34441d03fG5af47c4bcf4dG766264a1a653dc97G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Friday, 6 October 2017 at 16:35" data-utime="1507282552"><span class="timestampContent">Yesterday at 16:35</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Ca sĩ Beverly là người Philippines. Điều này giải thích tại sao lời bài hát [Be the one] lại có nhiều câu tiếng Anh như vậy.</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODI3NzIyMjIzOTIzODY3Lw%3D%3D&amp;c=903974456371113&amp;m=ARzEq3pEoaFOtWxA&amp;n=8530491289636166807&amp;p=post_redirect_in_post_preview&amp;t=1597761763618857&amp;aref=8530491289636166807&amp;medium=email&amp;mid=55af34441d03fG5af47c4bcf4dG766264a1a653dc97G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fhan3-1.fna.fbcdn.net/safe_image.php?d=AQDKpKI0-pRq5p5S&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fhan3-1.fna.fbcdn.net%2Fv%2Ft31.0-8%2F22291346_1827720960590660_1304649004071393302_o.png%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3D2375e471a6ccdbe823345f011c832d41%26oe%3D5A3C7086&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQDx0KjYsgOwz6xh" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><div align="center"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODI3NzIyMjIzOTIzODY3JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARzL9yA6hSYnWA7m&amp;n=8530491289636166807&amp;p=button_0&amp;t=1597761763618857&amp;aref=8530491289636166807&amp;medium=email&amp;mid=55af34441d03fG5af47c4bcf4dG766264a1a653dc97G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></div><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=8530491289636166807&amp;t=1597761763618857" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22zr1hid16chg6f%22%2C%22n%22%3A%22ivvhvpj5_1ww7umd%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 29
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 65% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=c02b1a5c7fd8c1f5f196f08c6d62ccd7&amp;oe=5A7E45CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARxJFZXnBVMj8rWi&amp;n=3627696441831272415&amp;p=page_redirect_in_post_preview&amp;t=1927309757284979&amp;aref=3627696441831272415&amp;medium=email&amp;mid=55b1f3198c80aG5af47c4bcf4dG32582ab1884d2fdfG4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODMxMTk3NzIwMjQyOTg0Lw%3D%3D&amp;c=903974456371113&amp;m=ARzd_d7pQbMKxLpA&amp;n=3627696441831272415&amp;p=post_redirect_in_post_preview&amp;t=1927309757284979&amp;aref=3627696441831272415&amp;medium=email&amp;mid=55b1f3198c80aG5af47c4bcf4dG32582ab1884d2fdfG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Monday, 9 October 2017 at 22:06" data-utime="1507561587"><span class="timestampContent">Today at 22:06</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Chọn người hay gấu bông :v</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODMxMTk3NzIwMjQyOTg0Lw%3D%3D&amp;c=903974456371113&amp;m=ARzd_d7pQbMKxLpA&amp;n=3627696441831272415&amp;p=post_redirect_in_post_preview&amp;t=1927309757284979&amp;aref=3627696441831272415&amp;medium=email&amp;mid=55b1f3198c80aG5af47c4bcf4dG32582ab1884d2fdfG4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fhan2-2.fna.fbcdn.net/safe_image.php?d=AQARYnj1txYaXEbG&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fhan2-2.fna.fbcdn.net%2Fv%2Ft31.0-8%2F22339664_1831197510243005_814527520513469959_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3Db8e5b6fa7d97c8193b504f8b5426cd05%26oe%3D5A766BD8&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQCrO0fscNFkO1ai" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><div align="center"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODMxMTk3NzIwMjQyOTg0JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARzUcOH1aqBroTc8&amp;n=3627696441831272415&amp;p=button_0&amp;t=1927309757284979&amp;aref=3627696441831272415&amp;medium=email&amp;mid=55b1f3198c80aG5af47c4bcf4dG32582ab1884d2fdfG4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></div><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=3627696441831272415&amp;t=1927309757284979" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22v1w3u13jd-31_%22%2C%22n%22%3A%22mhkwhj_5-m-vmmii%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 30
+Subject: Vui lòng xác nhận email của bạn
+From: =?utf-8?q?Pinterest?= <confirm@account.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@27a5f880
+---------------------------------
+Email Number 31
+Subject: Các ý tưởng khác được lấy cảm hứng từ các Ghim mà bạn yêu thích
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@1d29cf23
+---------------------------------
+Email Number 32
+Subject: 18 Ghim về người nổi tiếng phổ biến nhất tuần này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@5f282abb
+---------------------------------
+Email Number 33
+Subject: Bạn bè Facebook Dương Phương Linh Nguyễn của bạn vừa tham gia Pinterest!
+From: =?utf-8?q?Pinterest?= <pinbot@notifications.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@167fdd33
+---------------------------------
+Email Number 34
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 70% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=0&amp;oh=c02b1a5c7fd8c1f5f196f08c6d62ccd7&amp;oe=5A7E45CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARxM_xSIsW7AF01V&amp;n=6723342693878091929&amp;p=page_redirect_in_post_preview&amp;t=1670476866338566&amp;aref=6723342693878091929&amp;medium=email&amp;mid=55b84b96028bbG5af47c4bcf4dG5d4e1c8eebd25099G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODM2MTgxMzc2NDExMjg1Lw%3D%3D&amp;c=903974456371113&amp;m=ARzpipEYm6e0MctC&amp;n=6723342693878091929&amp;p=post_redirect_in_post_preview&amp;t=1670476866338566&amp;aref=6723342693878091929&amp;medium=email&amp;mid=55b84b96028bbG5af47c4bcf4dG5d4e1c8eebd25099G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Saturday, 14 October 2017 at 22:43" data-utime="1507995789"><span class="timestampContent">Yesterday at 22:43</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Ở một thế giới khác, khi Sid không bán khóa.
+Anh xuất hiện trong Build tập 7 (sáng mai).</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODM2MTgxMzc2NDExMjg1Lw%3D%3D&amp;c=903974456371113&amp;m=ARzpipEYm6e0MctC&amp;n=6723342693878091929&amp;p=post_redirect_in_post_preview&amp;t=1670476866338566&amp;aref=6723342693878091929&amp;medium=email&amp;mid=55b84b96028bbG5af47c4bcf4dG5d4e1c8eebd25099G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fsgn2-3.fna.fbcdn.net/safe_image.php?d=AQDGtrnQaD_dj_Qv&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fsgn2-3.fna.fbcdn.net%2Fv%2Ft31.0-8%2F22426228_1836178349744921_121788285078746358_o.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D0%26oh%3Dc8f5af222a0ecc171aa098c4c5f3759f%26oe%3D5A7D07B8&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQAWMH3osUiYq2ZY" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><div align="center"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODM2MTgxMzc2NDExMjg1JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARwIShbNMrEsYzAE&amp;n=6723342693878091929&amp;p=button_0&amp;t=1670476866338566&amp;aref=6723342693878091929&amp;medium=email&amp;mid=55b84b96028bbG5af47c4bcf4dG5d4e1c8eebd25099G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px; text-align: center; ">Boost&nbsp;Post</td></tr></table></a></div><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=6723342693878091929&amp;t=1670476866338566" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22kx4yra4xaamrx%22%2C%22n%22%3A%22z1p%3Dfg6%3Ddccepgof%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 35
+Subject: Bạn có 25+ ý tưởng mới đang chờ bạn!
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@1e965684
+---------------------------------
+Email Number 36
+Subject: Lấy cảm hứng với 18 ý tưởng thịnh hành này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@4d95d2a2
+---------------------------------
+Email Number 37
+Subject: Nguyễn, you have a high-performing post
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+Text: <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Facebook for Business</title></head><body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><!--[if (gte mso 9)|(IE)]>
+                  <table
+                    align="center"
+                    border="0"
+                    cellspacing="0"
+                    cellpadding="0"
+                    width="720">
+                    <tr>
+                      <td align="center" valign="top" width="720">
+                  <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="max-width: 720px;" width="100%"><tr><td><div style="display:none; font-size:1px; color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;"> You have a high-performing post </div></td></tr><tr><td align="left" valign="top"><table bgcolor="#ffffff" style="padding: 5px 0px; width: 100%;"><tr><td><table><tr><td><img height="32" src="https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/vd4aB0GIe9z.png" style="border:0;max-width:100%;" width="32" alt="Header" /></td><td width="2px"></td><td style="font: 22px Helvetica, Arial;">Facebook Adverts</td></tr></table></td></tr></table></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center; font: 16px Helvetica, Arial; " valign="top"><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 20px 0"><tr><td align="center"><p style="font-size: 20px; line-height: 24px; color: #1d2129; width: 506px; text-align: center">Your post is performing better than 65% of posts on that Page.</p></td></tr></table></div><div align="center"><table style="border: 1px solid #DDDFE2;
+          border-radius: 3px;
+          width: 500px;
+          padding: 12px"><tr><td><table style="padding: 0px; width: 480px"><tr><td width="40px" height="40px" style="padding: 0px"><img src="https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-1/p50x50/21766375_1813693831993373_2324818919287857050_n.png?_nc_ad=z-m&amp;_nc_cid=1229&amp;oh=36226f7409b88a9c6094fa77bf9f0405&amp;oe=5A7E45CF" style="border:0;max-width:100%;" /></td><td><table><tr><td style="font-size: 14px;
+                         font-weight: bold;
+                         color: #365899"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi8%3D&amp;c=903974456371113&amp;m=ARzxnSavVD_SSGfk&amp;n=7358199048151110213&amp;p=page_redirect_in_post_preview&amp;t=1877229292317700&amp;aref=7358199048151110213&amp;medium=email&amp;mid=55bb69f8f2181G5af47c4bcf4dG661d930c83aa1245G4e3&amp;n_m=kamenriderstrongertora%40gmail.com">HGSSub</a></td></tr><tr><td style="font-size: 12px; color: #979797">Published by Bùi Thanh Hải<span role="presentation" aria-hidden="true"> · </span><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODM2NzU5MjA5Njg2ODM1Lw%3D%3D&amp;c=903974456371113&amp;m=ARwT7p16UfYG-o2c&amp;n=7358199048151110213&amp;p=post_redirect_in_post_preview&amp;t=1877229292317700&amp;aref=7358199048151110213&amp;medium=email&amp;mid=55bb69f8f2181G5af47c4bcf4dG661d930c83aa1245G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><abbr title="Sunday, 15 October 2017 at 11:29" data-utime="1508041771"><span class="timestampContent">15 October at 11:29</span></abbr></a><span role="presentation" aria-hidden="true"> · </span></td></tr></table></td></tr></table></td></tr><tr><td style="font-size: 14px;
+               font-weight: normal;
+               color: #1d2129;
+               line-height: 1.38">Giống dụ dỗ trẻ con :v</td></tr><tr><td><div align="center" style="width: 480px; padding-top: 8px"><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzg0NTg4MjkwNTQ0MTE0Mi9wb3N0cy8xODM2NzU5MjA5Njg2ODM1Lw%3D%3D&amp;c=903974456371113&amp;m=ARwT7p16UfYG-o2c&amp;n=7358199048151110213&amp;p=post_redirect_in_post_preview&amp;t=1877229292317700&amp;aref=7358199048151110213&amp;medium=email&amp;mid=55bb69f8f2181G5af47c4bcf4dG661d930c83aa1245G4e3&amp;n_m=kamenriderstrongertora%40gmail.com"><img src="https://external.fhan5-1.fna.fbcdn.net/safe_image.php?d=AQCVvyku-57Wih2n&amp;w=480&amp;h=300&amp;url=https%3A%2F%2Fscontent.fhan5-1.fna.fbcdn.net%2Fv%2Ft1.0-9%2F22549827_1836758809686875_6714062619651634520_n.jpg%3F_nc_ad%3Dz-m%26_nc_cid%3D1229%26oh%3Df9e54de0881633cba83e0648c0f7c740%26oe%3D5A667682&amp;cfs=1&amp;upscale=1&amp;_nc_hash=AQCiQi48S8PWOQBy" style="border:0;max-width:100%;" /></a></div></td></tr></table></div><div align="center"><table border="0" cellpadding="0" cellspacing="0" style="padding: 20px 0 0 0"><tr><td style="padding: 0px 8px; text-align: center"><p style="font-size: 20px; color: #000000; line-height: 26.5px">Promote it to get even better results.</p></td></tr></table></div></td></tr><tr><td align="center" style="padding: 10px 0px 10px 0px; text-align:center;" valign="top"><div align="center"><!--[if (gte mso 9)|(IE)]>
+          <table
+            max-width='100%'
+            width='480px'>
+            <tr>
+              <td align='center' valign='top' width='480px'>
+          <![endif]--><a href="https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Femail_click%2F&amp;b=L2Fkcy9ncm93dGgvYXltdC9vZmZfZmFjZWJvb2svYm9vc3RlZF9jb21wb25lbnRzLz9hcHBfaWQ9MjA1MDAwOTQ2MTk3MDc3JnBhZ2VfaWQ9ODQ1ODgyOTA1NDQxMTQyJnRhcmdldF9pZD0xODM2NzU5MjA5Njg2ODM1JnBsYWNlbWVudD1heW10X2hvdF9wb3N0X29uX21lc3Nlbmdlcg%3D%3D&amp;c=903974456371113&amp;m=ARzmK9JNIHzw742L&amp;n=7358199048151110213&amp;p=button_0&amp;t=1877229292317700&amp;aref=7358199048151110213&amp;medium=email&amp;mid=55bb69f8f2181G5af47c4bcf4dG661d930c83aa1245G4e3&amp;n_m=kamenriderstrongertora%40gmail.com" style="display: inline-block; max-width: 480px; text-decoration: none; width: 100%; "><div align="center"><table align="center" style="background-color: #3a5a98; border-radius: 5px; font: 22px Helvetica, Arial; font-weight: bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px; text-align: center; width: 100%; "><tr><td align="center" style="color: #ffffff; font: 22px Helvetica, Arial; font-weight: bold;padding: 7px 20px;letter-spacing: 0px;text-align: center; ">Boost&nbsp;Post</td></tr></table></div></a><!--[if (gte mso 9)|(IE)]>
+              </td>
+            </tr>
+          </table>
+          <![endif]--></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><div align="center"><table cellpadding="0" cellspacing="0" align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px"><tr><td align="center" style="background-color: #e5e5e5; max-width: 100%; padding: 0px" height="1px" width="720px"></td></tr></table></div></td></tr><tr><td style="padding: 10px"></td></tr><tr><td><table bgcolor="#ffffff" align="center" style=""><tr><td align="center"><div align="center">This email was sent to <a style="color:#3b5998;text-decoration:none;">kamenriderstrongertora&#064;gmail.com</a>. You can <a href="https://facebook.com/aymt/unsubscribe/?c=903974456371113&amp;n=7358199048151110213&amp;t=1877229292317700" style="color:#3b5998;text-decoration:none;">unsubscribe</a> or <a href="https://facebook.com/business/m/sip/mobile-video?ref=fbb_home_carousel" style="color:#3b5998;text-decoration:none;">learn more</a> about advertising.<br />Facebook, Inc., Attention: Community Support, 1 Hacker Way, Menlo Park, CA 94025</div></td></tr></table></td></tr></table><!--[if (gte mso 9)|(IE)]>
+                      </td>
+                    </tr>
+                  </table>
+                  <![endif]--></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%22oovh6%3Dd6cllcf%22%2C%22t%22%3A%22tj_zy0j4j2cj9%22%2C%22n%22%3A%22vvf1eocge6ifc%3D%3D1%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html>
+
+
+---------------------------------
+Email Number 38
+Subject: Bạn có 25+ ý tưởng mới đang chờ bạn!
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@53f65459
+---------------------------------
+Email Number 39
+Subject: Lấy cảm hứng với 18 ý tưởng thịnh hành này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@3b088d51
+---------------------------------
+Email Number 40
+Subject: Bạn có 25+ ý tưởng mới đang chờ bạn!
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@1786dec2
+---------------------------------
+Email Number 41
+Subject: Bạn bè Facebook Giang Trần Công của bạn vừa tham gia Pinterest!
+From: =?utf-8?q?Pinterest?= <pinbot@notifications.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@74650e52
+---------------------------------
+Email Number 42
+Subject: Chúng tôi nghĩ bạn có thể thích những Ghim này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@15d0c81b
+---------------------------------
+Email Number 43
+Subject: Chúng tôi nghĩ bạn có thể thích những bảng này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@6acdbdf5
+---------------------------------
+Email Number 44
+Subject: Bạn có 25+ ý tưởng mới đang chờ bạn!
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@4b1c1ea0
+---------------------------------
+Email Number 45
+Subject: 18 Ghim phổ biến về người nổi tiếng tuần này
+From: =?utf-8?q?Pinterest?= <pinbot@explore.pinterest.com>
+Text: javax.mail.internet.MimeMultipart@17579e0f
