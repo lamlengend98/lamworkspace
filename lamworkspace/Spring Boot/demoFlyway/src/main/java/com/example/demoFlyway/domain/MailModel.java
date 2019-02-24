@@ -12,7 +12,6 @@ public class MailModel implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id", nullable = false)
-    @Size(min = 1, max = 100)
     private int id;
 
     @Column(name = "title", nullable = false)
