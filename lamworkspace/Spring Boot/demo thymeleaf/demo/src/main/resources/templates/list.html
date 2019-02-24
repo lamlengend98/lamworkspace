@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layout :: head"></head>
+<body>
+<nav th:replace="layout :: header"></nav>
+
+<div class="container main-content list">
+    <div th:if="${success}"
+         class="row alert alert-success alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert"
+                aria-label="Close">
+            <span aria-hidden="true">×</span>
+        </button>
+        <span th:text="${success}"></span>
+    </div>
+    <div class="row">
+        <a th:href="@{/employee/create}" class="btn btn-success pull-left">
+            <span class="glyphicon glyphicon-plus"></span> Add new employee
+        </a>
+        <form class="form-inline pull-right" action="#"
+              th:action="@{/employee/search}" method="GET">
+            <div class="form-group">
+                <input type="text" class="form-control" name="s"
+                       placeholder="Type employee name..." />
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+    <th:block th:if="${#lists.isEmpty(clientlist)}">
+        <h3>No employee</h3>
+    </th:block>
+
+    <th:block th:unless="${#lists.isEmpty(clientlist)}">
+        <nav class="row justify-content-center wow fadeIn"
+             data-wow-delay="0.2s">
+            <div class="row">
+
+                <table class="table table-bordered table-hover">
+                    <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr th:each="clientlist : ${clientlist}">
+                        <td th:text="${clientlist.id}">Text ...</td>
+                        <td th:text="${clientlist.name}">Text ...</td>
+                        <td th:text="${clientlist.phone}">Text ...</td>
+                        <td><a th:href="@{/employee/{id}/edit(id=${clientlist.id})}"><span
+                                class="glyphicon glyphicon-pencil"></span></a></td>
+                        <td><a th:href="@{/employee/{id}/delete(id=${clientlist.id})}"><span
+                                class="glyphicon glyphicon-trash"></span></a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="col-sm-7">
+                <div class="dataTables_paginate paging_simple_numbers" id="example2_paginate">
+                    <ul class="pagination">
+                        <li th:class="${page.firstPage}?'disabled':''">
+                            <span th:if='${page.firstPage}'>← 最初</span>
+                            <a th:if='${not page.firstPage}'
+                               th:href='@{${page.url}(page=1,search=${search})}'>← 最初</a>
+                        </li>
+                        <li th:class="${page.hasPreviousPage}? '' : 'disabled'">
+                            <span th:if='${not page.hasPreviousPage}'>«</span>
+                            <a th:if='${page.hasPreviousPage}'
+                               th:href='@{${page.url}(page=${page.number-1},search=${search})}'
+                               title='Go to previous page'>«</a>
+                        </li>
+                        <li th:each='item : ${page.items}' th:class="${item.current}? 'active' : ''">
+                            <span th:if='${item.current}' th:text='${item.number}'>1</span>
+                            <a th:if='${not item.current}'
+                               th:href='@{${page.url}(page=${item.number},search=${search})}'><span
+                                    th:text='${item.number}'>1</span></a>
+                        </li>
+                        <li th:class="${page.hasNextPage}? '' : 'disabled'">
+                            <span th:if='${not page.hasNextPage}'>»</span>
+                            <a th:if='${page.hasNextPage}'
+                               th:href='@{${page.url}(page=${page.number+1},search=${search})}'
+                               title='Go to next page'>»</a>
+                        </li>
+                        <li th:class="${page.lastPage}? 'disabled' : ''">
+                            <span th:if='${page.lastPage}'>最終 →</span>
+                            <a th:if='${not page.lastPage}'
+                               th:href='@{${page.url}(page=${page.totalPages},search=${search})}'>最終 →</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </th:block>
+</div>
+<!-- /.container -->
+
+<script
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    $(document).ready(function() {
+        changePageAndSize();
+    });
+    function changePageAndSize() {
+        $('#pageSizeSelect').change(function(evt) {
+            window.location.replace("/?pageSize=" + this.value + "&page=1");
+        });
+    }
+    /*]]>*/
+</script>
+</body>
+</html>
