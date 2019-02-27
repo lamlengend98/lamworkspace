@@ -1,0 +1,112 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layout :: head"></head>
+<body>
+<nav th:replace="layout :: header"></nav>
+<section>
+    <form>
+        <table class="table" style="margin-left: 10%; width: 80%; text-align: center">
+            <thead>
+            <tr>
+                <th scope="col" style="width: 200px; text-align: center">ID</th>
+                <th scope="col" style="width: 200px; text-align: center">Email</th>
+                <th scope="col" style="text-align: center">Title</th>
+                <th scope="col" style="text-align: center">Content</th>
+                <th scope="col" style="text-align: center">Time</th>
+            </tr>
+
+            </thead>
+            <tbody>
+
+            <tr th:each="list : ${list}">
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.id}"></div>
+                    </div>
+                </td>
+
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.toEmail}"></div>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.title}"></div>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.content}"></div>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.create_at}"></div>
+                    </div>
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+    </form>
+<!--    <div class="row">-->
+<!--        &lt;!&ndash;        <div class="form-group col-md-1">&ndash;&gt;-->
+<!--        &lt;!&ndash;            <select class="form-control pagination" id="pageSizeSelect">&ndash;&gt;-->
+<!--        &lt;!&ndash;                <option th:each="pageSize : ${pageSizes}"    th:text="${pageSize}"&ndash;&gt;-->
+<!--        &lt;!&ndash;                        th:value="${pageSize}"&ndash;&gt;-->
+<!--        &lt;!&ndash;                        th:selected="${pageSize} == ${selectedPageSize}"></option>&ndash;&gt;-->
+<!--        &lt;!&ndash;            </select>&ndash;&gt;-->
+<!--        &lt;!&ndash;        </div>&ndash;&gt;-->
+<!--        <div th:if="${list.totalPages != 1}"-->
+<!--             class="form-group col-md-11 pagination-centered">-->
+<!--            <ul class="pagination">-->
+<!--                <li th:class="${list.number == 0} ? disabled"><a-->
+<!--                        class="pageLink"-->
+<!--                        th:href="@{/(pageSize=${selectedPageSize}, page=1)}">«</a>-->
+<!--                </li>-->
+<!--                <li th:class="${list.number == 0} ? disabled"><a-->
+<!--                        class="pageLink"-->
+<!--                        th:href="@{/(pageSize=${selectedPageSize}, page=${list.number})}">←</a>-->
+<!--                </li>-->
+<!--                <li-->
+<!--                        th:class="${list.number == (page - 1)} ? 'active pointer-disabled'"-->
+<!--                        th:each="page : ${#numbers.sequence(pager.startPage, pager.endPage)}">-->
+<!--                    <a class="pageLink"-->
+<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${page})}"-->
+<!--                       th:text="${page}"></a>-->
+<!--                </li>-->
+<!--                <li-->
+<!--                        th:class="${list.number + 1 == list.totalPages} ? disabled">-->
+<!--                    <a class="pageLink"-->
+<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.number + 2})}">→</a>-->
+<!--                </li>-->
+<!--                <li-->
+<!--                        th:class="${list.number + 1 == list.totalPages} ? disabled">-->
+<!--                    <a class="pageLink"-->
+<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.totalPages})}">»</a>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </div>-->
+<!--    </div>-->
+</section>
+<script src="">
+    <script
+    src = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity = "sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin = "anonymous" ></script>
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    $(document).ready(function () {
+        changePageAndSize();
+    });
+
+    function changePageAndSize() {
+        $('#pageSizeSelect').change(function (evt) {
+            window.location.replace("/?pageSize=" + this.value + "&page=1");
+        });
+    }
+    /*]]>*/
+</script>
+</body>
+</html>

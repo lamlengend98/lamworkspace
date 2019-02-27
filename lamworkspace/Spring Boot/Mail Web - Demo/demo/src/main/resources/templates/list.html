@@ -1,0 +1,110 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layout :: head"></head>
+<body>
+<nav th:replace="layout :: header"></nav>
+<section>
+    <form>
+        <table class="table" style="margin-left: 10%; width: 80%; text-align: center">
+            <thead>
+            <tr>
+                <th scope="col" style="width: 200px; text-align: center">Title</th>
+                <th scope="col" style="text-align: center">Email Sender</th>
+                <th scope="col" style="text-align: center">Content</th>
+                <th scope="col" style="text-align: center">Delete</th>
+                <th scope="col" style="text-align: center">Get</th>
+            </tr>
+
+            </thead>
+            <tbody>
+
+            <tr th:each="list : ${list}">
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.title}"></div>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.emailSender}"></div>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <div style="height: 21px; overflow: hidden;" th:text="${list.content}"></div>
+                    </div>
+                </td>
+                <td style="height: 21px; overflow: hidden;"><a th:href="@{/{id}/delete(id=${list.id})}">Delete</a></td>
+                <td style="height: 21px; overflow: hidden;"><a th:href="@{/{id}(id=${list.id})}">Get</a></td>
+            </tr>
+
+            </tbody>
+        </table>
+    </form>
+    <div class="row">
+<!--        <div class="form-group col-md-1">-->
+<!--            <select class="form-control pagination" id="pageSizeSelect">-->
+<!--                <option th:each="pageSize : ${pageSizes}" th:text="${pageSize}"-->
+<!--                        th:value="${pageSize}"-->
+<!--                        th:selected="${pageSize} == ${selectedPageSize}"></option>-->
+<!--            </select>-->
+<!--        </div>-->
+        <div th:if="${list.totalPages != 1}"
+             class="form-group col-md-11 pagination-centered">
+            <ul class="pagination">
+                <li th:class="${list.number == 0} ? disabled"><a
+                        class="pageLink"
+                        th:href="@{/(pageSize=${selectedPageSize}, page=1)}">«</a>
+                </li>
+                <li th:class="${list.number == 0} ? disabled"><a
+                        class="pageLink"
+                        th:href="@{/(pageSize=${selectedPageSize}, page=${list.number})}">←</a>
+                </li>
+                <li
+                        th:class="${list.number == (page - 1)} ? 'active pointer-disabled'"
+                        th:each="page : ${#numbers.sequence(pager.startPage, pager.endPage)}">
+                    <a class="pageLink"
+                       th:href="@{/(pageSize=${selectedPageSize}, page=${page})}"
+                       th:text="${page}"></a>
+                </li>
+                <li
+                        th:class="${list.number + 1 == list.totalPages} ? disabled">
+                    <a class="pageLink"
+                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.number + 2})}">→</a>
+                </li>
+                <li
+                        th:class="${list.number + 1 == list.totalPages} ? disabled">
+                    <a class="pageLink"
+                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.totalPages})}">»</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<script src="">
+    <script
+    src = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity = "sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin = "anonymous" ></script>
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    $(document).ready(function () {
+        changePageAndSize();
+    });
+
+    function changePageAndSize() {
+        $('#pageSizeSelect').change(function (evt) {
+            window.location.replace("/?pageSize=" + this.value + "&page=1");
+        });
+    }
+
+    function locationTo() {
+        $('.home-icon').click(function () {
+            window.location.replace("/")
+        })
+    }
+
+    /*]]>*/
+</script>
+</body>
+</html>

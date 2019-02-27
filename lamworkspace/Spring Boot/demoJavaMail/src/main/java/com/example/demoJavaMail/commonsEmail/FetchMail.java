@@ -1,8 +1,12 @@
 package com.example.demoJavaMail.commonsEmail;
 
+import org.apache.commons.mail.util.MimeMessageParser;
+
 import javax.mail.*;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import javax.mail.internet.MimeBodyPart;
+import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Properties;
 
@@ -33,21 +37,12 @@ public class FetchMail {
                 String emailNumber = "\nEmail Number " + (i + 1);
                 String subject = "\nSubject: " + messages.getSubject();
                 String from = "\nFrom: " + messages.getFrom()[0];
-                String text = "\nText: " + messages.getContent().toString();
+                String text = getContentText(messages).substring(0,30);
+                int message_id = messages.getMessageNumber();
 
-                byte newLinee[] = newLine.getBytes();
-                byte emailNumberr[] = emailNumber.getBytes();
-                byte subjectt[] = subject.getBytes();
-                byte fromm[] = from.getBytes();
-                byte textt[] = text.getBytes();
-                FileOutputStream fileOutputStream = new FileOutputStream("listMail.txt", true);
-                fileOutputStream.write(newLinee);
-                fileOutputStream.write(emailNumberr);
-                fileOutputStream.write(subjectt);
-                fileOutputStream.write(fromm);
-                fileOutputStream.write(textt);
-                fileOutputStream.close();
 
+                System.out.println(text);
+                System.out.println("==========="+message_id);
             }
             System.out.println("success");
 
@@ -61,15 +56,74 @@ public class FetchMail {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
     public static void main(String[] args) {
         String host = "pop.gmail.com";
         String mailStoreType = "pop3";
-        String user = "kamenriderstrongertora@gmail.com";
-        String password = "lam261198";
+        String user = "lam26111998@gmail.com";
+        String password = "Lam261198";
 
         fetch(host, mailStoreType, user, password);
+    }
+
+    private static String getContentText(Part p) throws MessagingException, IOException {
+
+        if (p.isMimeType("text/*")) {
+            String s = getTextContent(p);
+            return s;
+        }
+
+        if (p.isMimeType("multipart/alternative")) {
+            // prefer html text over plain text
+            Multipart mp = (Multipart)p.getContent();
+            String text = null;
+            for (int i = 0; i < mp.getCount(); i++) {
+                Part bp = mp.getBodyPart(i);
+                if (bp.isMimeType("text/plain")) {
+                    if (text == null)
+                        text = getContentText(bp);
+                    continue;
+                } else if (bp.isMimeType("text/html")) {
+                    String s = getContentText(bp);
+                    if (s != null)
+                        return s;
+                } else {
+                    return getContentText(bp);
+                }
+            }
+            return text;
+        } else if (p.isMimeType("multipart/*")) {
+            Multipart mp = (Multipart)p.getContent();
+            for (int i = 0; i < mp.getCount(); i++) {
+                String s = getContentText(mp.getBodyPart(i));
+                if (s != null)
+                    return s;
+            }
+        }
+
+        return null;
+    }
+    private static String getTextContent(Part p) throws IOException, MessagingException {
+        try {
+            return (String)p.getContent();
+        } catch (UnsupportedEncodingException e) {
+            OutputStream os = new ByteArrayOutputStream();
+            p.writeTo(os);
+            String raw = os.toString();
+            os.close();
+
+            //cp932 -> Windows-31J
+            raw = raw.replaceAll("cp932", "ms932");
+
+            InputStream is = new ByteArrayInputStream(raw.getBytes());
+            Part newPart = new MimeBodyPart(is);
+            is.close();
+
+            return (String)newPart.getContent();
+        }
     }
 }

@@ -1,41 +1,41 @@
-<!doctype html>
-<html xmlns:th="http://www.thymeleaf.org">
-<head th:replace="layout :: head">
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Java Mail</title>
-</head>
-<body>
-<div class="container main-content list">
-    <div class="navbar navbar-expand-md bg-success navbar-dark">
-        <div class="container">
+<!--<!doctype html>-->
+<!--<html xmlns:th="http://www.thymeleaf.org">-->
+<!--<head th:replace="layout :: head">-->
+<!--    <meta charset="UTF-8">-->
+<!--    <meta name="viewport"-->
+<!--          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">-->
+<!--    <meta http-equiv="X-UA-Compatible" content="ie=edge">-->
+<!--    <title>Java Mail</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<div class="container main-content list">-->
+<!--    <div class="navbar navbar-expand-md bg-success navbar-dark">-->
+<!--        <div class="container">-->
 
-        </div>
-    </div>
-    <input type="text" placeholder="Email">
-    <input type="password" placeholder="Password">
-    <input type="submit" value="GET">
-        <table class="table" style="margin-left: 10%; width: 80%; text-align: center">
+<!--        </div>-->
+<!--    </div>-->
+<!--    <input type="text" placeholder="Email">-->
+<!--    <input type="password" placeholder="Password">-->
+<!--    <input type="submit" value="GET">-->
+<!--        <table class="table" style="margin-left: 10%; width: 80%; text-align: center">-->
 
-            <thead>
-                <tr>
-                    <th scope="col">Id</th>
-                    <th scope="col">Title</th>
-                    <th scope="col">Email</th>
-                    <th scope="col">Content</th>
-                </tr>
-            <tbody>
-                <tr th:each="list : ${list}">
-                    <td th:text="${list.subject}"></td>
-                    <td th:text="${list.subject}"></td>
-                    <td th:text="${list.from}"></td>
-                    <td th:text="${list.content}"></td>
-                </tr>
-            </tbody>
-            </thead>
-        </table>
-</div>
-</body>
-</html>
+<!--            <thead>-->
+<!--                <tr>-->
+<!--                    <th scope="col">Id</th>-->
+<!--                    <th scope="col">Title</th>-->
+<!--                    <th scope="col">Email</th>-->
+<!--                    <th scope="col">Content</th>-->
+<!--                </tr>-->
+<!--            <tbody>-->
+<!--                <tr th:each="list : ${list}">-->
+<!--                    <td th:text="${list.subject}"></td>-->
+<!--                    <td th:text="${list.subject}"></td>-->
+<!--                    <td th:text="${list.from}"></td>-->
+<!--                    <td th:text="${list.content}"></td>-->
+<!--                </tr>-->
+<!--            </tbody>-->
+<!--            </thead>-->
+<!--        </table>-->
+<!--</div>-->
+<!--</body>-->
+<!--</html>-->
