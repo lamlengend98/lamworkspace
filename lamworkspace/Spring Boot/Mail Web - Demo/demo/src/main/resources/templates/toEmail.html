@@ -5,7 +5,7 @@
 <nav th:replace="layout :: header"></nav>
 <section>
     <form>
-        <table class="table" style="margin-left: 10%; width: 80%; text-align: center">
+        <table id="sendForm" class="table" style="margin-left: 10%; width: 80%; text-align: center">
             <thead>
             <tr>
                 <th scope="col" style="width: 200px; text-align: center">ID</th>
@@ -27,7 +27,7 @@
 
                 <td>
                     <div>
-                        <div style="height: 21px; overflow: hidden;" th:text="${list.toEmail}"></div>
+                        <div id="email" style="height: 21px; overflow: hidden;" th:text="${list.toEmail}"></div>
                     </div>
                 </td>
                 <td>
@@ -50,63 +50,83 @@
             </tbody>
         </table>
     </form>
-<!--    <div class="row">-->
-<!--        &lt;!&ndash;        <div class="form-group col-md-1">&ndash;&gt;-->
-<!--        &lt;!&ndash;            <select class="form-control pagination" id="pageSizeSelect">&ndash;&gt;-->
-<!--        &lt;!&ndash;                <option th:each="pageSize : ${pageSizes}"    th:text="${pageSize}"&ndash;&gt;-->
-<!--        &lt;!&ndash;                        th:value="${pageSize}"&ndash;&gt;-->
-<!--        &lt;!&ndash;                        th:selected="${pageSize} == ${selectedPageSize}"></option>&ndash;&gt;-->
-<!--        &lt;!&ndash;            </select>&ndash;&gt;-->
-<!--        &lt;!&ndash;        </div>&ndash;&gt;-->
-<!--        <div th:if="${list.totalPages != 1}"-->
-<!--             class="form-group col-md-11 pagination-centered">-->
-<!--            <ul class="pagination">-->
-<!--                <li th:class="${list.number == 0} ? disabled"><a-->
-<!--                        class="pageLink"-->
-<!--                        th:href="@{/(pageSize=${selectedPageSize}, page=1)}">«</a>-->
-<!--                </li>-->
-<!--                <li th:class="${list.number == 0} ? disabled"><a-->
-<!--                        class="pageLink"-->
-<!--                        th:href="@{/(pageSize=${selectedPageSize}, page=${list.number})}">←</a>-->
-<!--                </li>-->
-<!--                <li-->
-<!--                        th:class="${list.number == (page - 1)} ? 'active pointer-disabled'"-->
-<!--                        th:each="page : ${#numbers.sequence(pager.startPage, pager.endPage)}">-->
-<!--                    <a class="pageLink"-->
-<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${page})}"-->
-<!--                       th:text="${page}"></a>-->
-<!--                </li>-->
-<!--                <li-->
-<!--                        th:class="${list.number + 1 == list.totalPages} ? disabled">-->
-<!--                    <a class="pageLink"-->
-<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.number + 2})}">→</a>-->
-<!--                </li>-->
-<!--                <li-->
-<!--                        th:class="${list.number + 1 == list.totalPages} ? disabled">-->
-<!--                    <a class="pageLink"-->
-<!--                       th:href="@{/(pageSize=${selectedPageSize}, page=${list.totalPages})}">»</a>-->
-<!--                </li>-->
-<!--            </ul>-->
-<!--        </div>-->
-<!--    </div>-->
+        <div class="row">
+                    <div class="form-group col-md-1">
+                        <select class="form-control pagination" id="pageSizeSelect">
+                            <option th:each="pageSize : ${pageSizes}"    th:text="${pageSize}"
+                                    th:value="${pageSize}"
+                                    th:selected="${pageSize} == ${selectedPageSize}"></option>
+                        </select>
+                    </div>
+            <div th:if="${list.totalPages != 1}"
+                 class="form-group col-md-11 pagination-centered">
+                <ul class="pagination">
+                    <li th:class="${list.number == 0} ? disabled"><a
+                            class="pageLink"
+                            th:href="@{/toEmail(pageSize=${selectedPageSize}, page=1)}">«</a>
+                    </li>
+                    <li th:class="${list.number == 0} ? disabled"><a
+                            class="pageLink"
+                            th:href="@{/toEmail(pageSize=${selectedPageSize}, page=${list.number})}">←</a>
+                    </li>
+                    <li
+                            th:class="${list.number == (page - 1)} ? 'active pointer-disabled'"
+                            th:each="page : ${#numbers.sequence(pager.startPage, pager.endPage)}">
+                        <a class="pageLink"
+                           th:href="@{/toEmail(pageSize=${selectedPageSize}, page=${page})}"
+                           th:text="${page}"></a>
+                    </li>
+                    <li
+                            th:class="${list.number + 1 == list.totalPages} ? disabled">
+                        <a class="pageLink"
+                           th:href="@{/toEmail(pageSize=${selectedPageSize}, page=${list.number + 2})}">→</a>
+                    </li>
+                    <li
+                            th:class="${list.number + 1 == list.totalPages} ? disabled">
+                        <a class="pageLink"
+                           th:href="@{/toEmail(pageSize=${selectedPageSize}, page=${list.totalPages})}">»</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
 </section>
 <script src="">
     <script
     src = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
     integrity = "sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
     crossorigin = "anonymous" ></script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
 <script th:inline="javascript">
-    /*<![CDATA[*/
     $(document).ready(function () {
         changePageAndSize();
     });
 
     function changePageAndSize() {
         $('#pageSizeSelect').change(function (evt) {
-            window.location.replace("/?pageSize=" + this.value + "&page=1");
+            window.location.replace("/toEmail?pageSize=" + this.value + "&page=1");
         });
     }
-    /*]]>*/
+    var emailMsg = "Vui lòng nhập đúng email";
+    $(document).ready(function () {
+        // validate signup form on keyup and submit
+        $("#sendForm").validate({
+            rules: {
+                email: {
+                    required: true,
+                    email: true,
+                    accept: "[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}"
+                }
+            },
+            messages: {
+                email: {
+                    required: "Vui lòng nhập email",
+                    email: emailMsg
+                }
+            }
+        });
+    });
 </script>
+
 </body>
 </html>

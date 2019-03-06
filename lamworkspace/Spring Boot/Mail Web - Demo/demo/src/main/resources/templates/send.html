@@ -6,26 +6,31 @@
 <section>
     <div class="container main-content form">
         <div class="row">
-            <form action="#" th:action="@{/toEmail/save}" th:object="${mail}"
-                  method="POST" novalidate="novalidate">
+            <div>
                 <div class="form-group">
                     <label>To Email</label>
-                    <input type="text" class="form-control"
-                           th:field="*{toEmail}" />
+                    <input id="toEmail" type="text" class="form-control"/>
                 </div>
+
                 <div class="form-group">
                     <label>Title</label>
-                    <input type="text" class="form-control" th:field="*{title}" />
+                    <input type="text" id="title" class="form-control" />
                 </div>
                 <div class="form-group">
                     <label>Content</label>
-                    <textarea th:height="200px" class="form-control" th:field="*{content}" />
+                    <textarea id="texteditor" class="tinymce" ></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary">Send</button>
-            </form>
+                <div style="margin-top: 10px; padding: 10px;" class="dropzone" name="uploadfile" id="attachment-dropzone-tab"></div>
+                <button class="btn btn-default" id="submitButton" >Send</button>
+
+            </div>
+            <div style="border:1px solid #ccc;padding: 5px;">
+                <span id="error"></span>
+            </div>
         </div>
     </div>
 </section>
 
+<nav th:replace="layout :: footer"></nav>
 </body>
 </html>

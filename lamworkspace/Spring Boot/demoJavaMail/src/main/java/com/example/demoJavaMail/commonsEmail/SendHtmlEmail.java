@@ -29,7 +29,7 @@ public class SendHtmlEmail {
             htmlEmail.setHtmlMsg("<html><h2><font color=\"red\">The apache logo</font><h2>  <img src=\"cid:"
                     + cid + "\"></html>");
 
-            htmlEmail.setTextMsg("testing...");
+            htmlEmail.setTextMsg("1\n2\3");
 
             htmlEmail.send();
 

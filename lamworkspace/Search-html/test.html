@@ -1,85 +1,14 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html>
 <head>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
-		integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-	<link rel="stylesheet" href="./test.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
-		integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-	<title>Caja de Busqueda con efecto</title>
-</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="./test.js">
 
+</script>
+</head>
 <body>
 
-	<nav>
-		<ul>
-			<a href="./test.html">
-				<li>
-					<div class="home-icon">
-						<div class="roof">
-							<div class="roof-edge"></div>
-						</div>
-						<div class="front"></div>
-					</div>
-				</li>
-			</a>
-			<a href="./test1.html">
-				<li>
-					<div class="about-icon">
-						<div>
-							<i class="fas fa-share-square fa-2x" aria-
-							hidden="true" style="color: #ffffff"></i>
-						</div>
-					</div>
-				</li>
-			</a>
-			<a href="./test1.html">
-				<li>
-					<div class="work-icon">
-						<div class="paper"></div>
-						<div class="lines"></div>
-						<div class="lines"></div>
-						<div class="lines"></div>
-					</div>
-				</li>
-			</a>
-			<li>
-				<div class="mail-icon">
-					<div class="mail-base">
-						<div class="mail-top"></div>
-					</div>
-				</div>
-			</li>
-		</ul>
-	</nav>
+<button id="submit">Send</button>
 
-	<section>
-		<h1>3d rotating navigation</h1>
-		<h2>+ CSS Icons</h2>
-	</section>
-	<script th:inline="javascript">
-		/*<![CDATA[*/
-		$(document).ready(function () {
-			// changePageAndSize();
-			locationTo();
-		});
-
-		// function changePageAndSize() {
-		// 	$('#pageSizeSelect').change(function (evt) {
-		// 		window.location.replace("/?pageSize=" + this.value + "&page=1");
-		// 	});
-		// }
-
-		function locationTo() {
-			$('.home-icon').click(function () {
-				window.location.replace("/test.html")
-			})
-		}
-
-		/*]]>*/
-	</script>
 </body>
-
 </html>

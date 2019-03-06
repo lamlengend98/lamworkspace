@@ -9,6 +9,7 @@ public class Mail {
 
     @Id
     @Column(name = "id" , nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     @Column(name = "title", nullable = false)
@@ -82,5 +83,10 @@ public class Mail {
                 ", emailSender='" + emailSender + '\'' +
                 ", content='" + content + '\'' +
                 '}';
+    }
+
+    public static void main(String[] args) {
+        String workingDir = System.getProperty("Baitaplonpttkht.xlsx");
+        System.out.println("Current working directory : " + workingDir);
     }
 }

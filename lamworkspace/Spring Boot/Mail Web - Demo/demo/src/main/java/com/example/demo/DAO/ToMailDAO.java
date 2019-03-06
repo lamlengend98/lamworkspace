@@ -6,4 +6,5 @@ import org.springframework.data.repository.PagingAndSortingRepository;
 
 public interface ToMailDAO extends PagingAndSortingRepository<SendMail, Integer> {
     SendMail getOne(int id);
+
 }
