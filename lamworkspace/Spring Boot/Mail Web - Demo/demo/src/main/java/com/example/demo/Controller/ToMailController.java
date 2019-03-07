@@ -28,9 +28,15 @@ import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
+import javax.activation.DataHandler;
+import javax.activation.DataSource;
+import javax.activation.FileDataSource;
 import javax.jws.WebParam;
-import javax.mail.MessagingException;
+import javax.mail.*;
+import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeBodyPart;
+import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
 import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.io.IOException;
@@ -39,10 +45,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 
 @Controller
@@ -142,7 +145,7 @@ public class ToMailController {
     private final Path rootLocation = Paths.get("filestorage");
     String urlfile;
     @PostMapping("/toEmail/save")
-    public String save(@RequestBody FormJSON formJSON) throws IOException {
+    public String save(@RequestBody FormJSON formJSON) throws IOException, MessagingException {
         FileInfo fileInfo = new FileInfo();
         System.out.println("============="+formJSON.toString());
         String myEmail = "lam848520@gmail.com";
@@ -150,126 +153,69 @@ public class ToMailController {
         String title = formJSON.getSubject();
         String email1 = formJSON.getReceiver();
         String content = formJSON.getContent();
+        System.out.println(content);
         List<Integer> attachment1 = formJSON.getAttachment();
-//        for (Integer list: attachment1
-//        ) {
-//            SendMail sendMail = new SendMail();
-//            System.out.println(sendMail.getId());
-//            Optional<FileInfo> byId = fileDAO.findById(list);
-//            System.out.println(byId.get().getId());
-//            byId.get().setId_toEmail(1);
-//        }
 
+        Multipart multipart = new MimeMultipart();
+        MimeBodyPart messageBodyPart = new MimeBodyPart();
 
-        SendMail sendMail = new SendMail();
-        System.out.println(sendMail.getId());
-//        System.out.println(file);
-//        try {
-//            Path fp = rootLocation.resolve(System.currentTimeMillis()+"");
-//            if (!Files.exists(fp)){
-//                Files.createDirectory(fp);
-//            }
-//            Path p =fp.resolve(file.getOriginalFilename());
-//            Files.copy(file.getInputStream(),p);
-//            urlfile = p.toString();
-//            System.out.println(urlfile);
-//            System.out.println("++++++++++++++++++++");
-//            System.out.println(file);
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
+        Properties props = new Properties();
+        props.put("mail.smtp.auth", true);
+        props.put("mail.smtp.starttls.enable", true);
+        props.put("mail.smtp.host", "smtp.gmail.com");
+        props.put("mail.smtp.port", "587");
 
-//        if (urlfile==null){
-//            try {
-//                HtmlEmail email = new HtmlEmail();
-//                email.setHostName("smtp.googlemail.com");
-//                email.setSmtpPort(465);
-//                email.setAuthenticator(new DefaultAuthenticator(myEmail, myPassword));
-//
-//                email.setSSLOnConnect(true);
-//                email.setFrom(email1);
-//                email.setSubject(title);
-//                email.setHtmlMsg(content);
-//                Date date = new Date();
-//
-//                sendMail.setTitle(title);
-//                sendMail.setContent(content);
-//                sendMail.setToEmail(email1);
-//                sendMail.setCreate_at(date);
-//
-//                email.setFrom(myEmail);
-//                email.setSubject(title);
-//                email.setHtmlMsg(content);
-//
-//                toMailDAO.save(sendMail);
-//                email.addTo(email1);
-//                email.send();
-//                System.out.println("Sent");
-//            } catch (EmailException e) {
-//                e.printStackTrace();
-//            }
-//
-//        }
-//        else {
-            FileInfo f = new FileInfo();
-            List<Integer> attachment2 = formJSON.getAttachment();
-            System.out.println(attachment1.size());
-            try {
-//                System.out.println(file.getOriginalFilename());
-                List<String> url2 = new ArrayList<>();
-
-                Date date = new Date();
-
-                Document document = Jsoup.parse(content);
-                String text = document.body().text();
-                sendMail.setTitle(title);
-                sendMail.setContent(text);
-                sendMail.setToEmail(email1);
-                sendMail.setCreate_at(date);
-//                sendMail.setFileName(file.getOriginalFilename());
-                
-
-                System.out.println("===================="+sendMail.getUrl());
-                EmailAttachment attachment = new EmailAttachment();
-
-                MimeBodyPart mimeBodyPart = new MimeBodyPart();
-                for (int i = 0; i < attachment1.size(); i++){
-                    Optional<FileInfo> byId = fileDAO.findById(attachment1.get(i));
-                    url2.add("/home/lam/workspace/lamworkspace/Spring Boot/Mail Web - Demo/demo/"+byId.get().getUrl());
-                    for (String list2: url2
-                         ) {
-                        System.out.println(list2);
-                        attachment.setPath(list2);
-                        mimeBodyPart.attachFile(list2);
-                        attachment.setDisposition(EmailAttachment.ATTACHMENT);
+        Session session = Session.getInstance(props,
+                new javax.mail.Authenticator() {
+                    protected PasswordAuthentication getPasswordAuthentication() {
+                        return new PasswordAuthentication(myEmail, myPassword);
                     }
-                }
+                });
 
+        try {
+            SendMail sendMail = new SendMail();
+            Message message = new MimeMessage(session);
+            message.setFrom(new InternetAddress(myEmail));
+            message.setRecipients(Message.RecipientType.TO,
+                    InternetAddress.parse(email1));
+            message.setSubject(title);
+            message.setText(content);
 
-//                attachment.setName(f.getFileName());
-                
-                //tao doi tuong
-                MultiPartEmail email = new MultiPartEmail();
-                email.setHostName("smtp.googlemail.com");
-                email.setSmtpPort(465);
-                email.setSSLOnConnect(true);
-                email.setAuthenticator(new DefaultAuthenticator(myEmail, myPassword));
-                email.setFrom(myEmail);
-                email.setSubject(title);
+            messageBodyPart = new MimeBodyPart();
+            List<Integer> attachmentID = formJSON.getAttachment();
+            for (int i = 0; i < attachmentID.size(); i++){
+                Optional<FileInfo> byId = fileDAO.findById(attachmentID.get(i));
+                String file ="/home/lam/workspace/lamworkspace/Spring Boot/Mail Web - Demo/demo/"+byId.get().getUrl();
+                String fileName = byId.get().getFileName();
+                System.out.println(fileInfo.getId());
+                addAttachment(multipart, file, fileName);
 
-                email.setMsg(text);
-                email.attach(attachment);
-
-                toMailDAO.save(sendMail);
-                email.addTo(email1);
-                email.send();
-                System.out.println("Sent");
-            } catch (EmailException e) {
-                e.printStackTrace();
-            } catch (MessagingException e) {
-                e.printStackTrace();
+                message.setContent(multipart);
             }
+
+            System.out.println("Sending");
+
+            Transport.send(message);
+
+            sendMail.setToEmail(email1);
+            sendMail.setTitle(title);
+            sendMail.setContent(content);
+            toMailDAO.save(sendMail);
+            System.out.println("Done");
+
+        } catch (MessagingException e) {
+            e.printStackTrace();
+        }
 //        }
         return "redirect:/toEmail";
     }
+
+    private static void addAttachment(Multipart multipart, String file, String filename) throws MessagingException {
+        DataSource source = new FileDataSource(file);
+        BodyPart messageBodyPart = new MimeBodyPart();
+        messageBodyPart.setDataHandler(new DataHandler(source));
+        messageBodyPart.setFileName(filename);
+        multipart.addBodyPart(messageBodyPart);
+    }
+
 }

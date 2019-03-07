@@ -66,7 +66,7 @@
                     } else {
                         console.log("error")
                     }
-                    // window.location.replace("/toEmail")
+                    window.location.replace("/toEmail")
 
                 },
                 error: function (e) {
