@@ -67,20 +67,20 @@ public class ToMailController {
     private static final int[] PAGE_SIZES = {5, 10};
 
     @GetMapping("/toEmail/send")
-    public String send(Model model, MultipartFile file){
+    public String send(Model model, MultipartFile file) {
         model.addAttribute("mail", new SendMail());
         return "send";
     }
 
     @GetMapping("/file")
-    public String file(){
+    public String file() {
         return "index";
     }
 
 
     @GetMapping("/toEmail")
     public ModelAndView toEmail(@RequestParam(value = "pageSize") Optional<Integer> pageSize,
-                                @RequestParam(value = "page") Optional<Integer> page){
+                                @RequestParam(value = "page") Optional<Integer> page) {
         if (toMailDAO.count() != 0) {
 
         } else {
@@ -113,12 +113,12 @@ public class ToMailController {
         AjaxResponseBody ajaxResponseBody = new AjaxResponseBody();
 
         try {
-            Path fp = rootLocation.resolve(System.currentTimeMillis()+"");
-            if (!Files.exists(fp)){
+            Path fp = rootLocation.resolve(System.currentTimeMillis() + "");
+            if (!Files.exists(fp)) {
                 Files.createDirectory(fp);
             }
-            Path p =fp.resolve(file.getOriginalFilename());
-            Files.copy(file.getInputStream(),p);
+            Path p = fp.resolve(file.getOriginalFilename());
+            Files.copy(file.getInputStream(), p);
 //            System.out.println(p);
             fileInfo.setUrl(p.toString());
             fileInfo.setFileName(file.getOriginalFilename());
@@ -126,8 +126,8 @@ public class ToMailController {
             fileDAO.save(fileInfo);
             List<Integer> list = new ArrayList<Integer>();
             list.add(fileInfo.getId());
-            for (int listID: list
-                 ) {
+            for (int listID : list
+            ) {
                 System.out.println(listID);
             }
 
@@ -144,17 +144,19 @@ public class ToMailController {
 
     private final Path rootLocation = Paths.get("filestorage");
     String urlfile;
+
     @PostMapping("/toEmail/save")
     public String save(@RequestBody FormJSON formJSON) throws IOException, MessagingException {
         FileInfo fileInfo = new FileInfo();
-        System.out.println("============="+formJSON.toString());
+        System.out.println("=============" + formJSON.toString());
         String myEmail = "lam848520@gmail.com";
         String myPassword = "Lam261198";
         String title = formJSON.getSubject();
-        String email1 = formJSON.getReceiver();
+//        String email1 = formJSON.getReceiver();
         String content = formJSON.getContent();
         System.out.println(content);
         List<Integer> attachment1 = formJSON.getAttachment();
+        List<String> receiver = formJSON.getReceiver();
 
         Multipart multipart = new MimeMultipart();
         MimeBodyPart messageBodyPart = new MimeBodyPart();
@@ -175,39 +177,58 @@ public class ToMailController {
         try {
             SendMail sendMail = new SendMail();
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress(myEmail));
-            message.setRecipients(Message.RecipientType.TO,
-                    InternetAddress.parse(email1));
-            message.setSubject(title);
-            message.setText(content);
+            for (String receive : receiver
+            ) {
+                System.out.println(receive);
+                message.setFrom(new InternetAddress(myEmail));
+                message.setRecipients(Message.RecipientType.TO,
+                        InternetAddress.parse(receive));
+                message.setSubject(title);
+                message.setText(content);
+                Iterable<SendMail> all = toMailDAO.findAll();
+                List<Integer> listID = new ArrayList<>();
+                for (SendMail iterable : all
+                ) {
+                    listID.add(iterable.getId());
+                }
+//            System.out.println(Collections.max(listID));
+//            fileInfo.setId_toEmail(Collections.max(listID));
+                messageBodyPart = new MimeBodyPart();
+                List<Integer> attachmentID = formJSON.getAttachment();
+                for (int i = 0; i < attachmentID.size(); i++) {
+                    Optional<FileInfo> byId = fileDAO.findById(attachmentID.get(i));
+                    String file = "/home/lam/workspace/lamworkspace/Spring Boot/Mail Web - Demo/demo/" + byId.get().getUrl();
+                    String fileName = byId.get().getFileName();
 
-            messageBodyPart = new MimeBodyPart();
-            List<Integer> attachmentID = formJSON.getAttachment();
-            for (int i = 0; i < attachmentID.size(); i++){
-                Optional<FileInfo> byId = fileDAO.findById(attachmentID.get(i));
-                String file ="/home/lam/workspace/lamworkspace/Spring Boot/Mail Web - Demo/demo/"+byId.get().getUrl();
-                String fileName = byId.get().getFileName();
-                System.out.println(fileInfo.getId());
-                addAttachment(multipart, file, fileName);
+                    addAttachment(multipart, file, fileName);
 
-                message.setContent(multipart);
+                    byId.get().setId_toEmail(Collections.max(listID));
+                    message.setContent(multipart);
+                }
+
+                System.out.println("Sending");
+
+                Transport.send(message);
+                Date date = new Date();
+                saveMail(toMailDAO, sendMail, date, receive, title,content);
+                System.out.println("Done");
+
+
             }
-
-            System.out.println("Sending");
-
-            Transport.send(message);
-
-            sendMail.setToEmail(email1);
-            sendMail.setTitle(title);
-            sendMail.setContent(content);
-            toMailDAO.save(sendMail);
-            System.out.println("Done");
-
         } catch (MessagingException e) {
             e.printStackTrace();
         }
+
 //        }
         return "redirect:/toEmail";
+    }
+
+    private static void saveMail(ToMailDAO toMailDAO, SendMail sendMail, Date date, String receiver, String title, String content){
+        sendMail.setCreate_at(date);
+        sendMail.setContent(content);
+        sendMail.setTitle(title);
+        sendMail.setToEmail(receiver);
+        toMailDAO.save(sendMail);
     }
 
     private static void addAttachment(Multipart multipart, String file, String filename) throws MessagingException {

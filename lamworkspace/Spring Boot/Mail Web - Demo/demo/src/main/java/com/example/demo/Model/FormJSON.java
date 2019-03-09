@@ -6,14 +6,14 @@ import java.util.List;
 
 public class FormJSON {
     private String subject;
-    private String receiver;
+    private List<String> receiver;
     private String content;
     private List<Integer> attachment;
 
     public FormJSON() {
     }
 
-    public FormJSON(String subject, String receiver, String content, List<Integer> attachment) {
+    public FormJSON(String subject, List<String> receiver, String content, List<Integer> attachment) {
         this.subject = subject;
         this.receiver = receiver;
         this.content = content;
@@ -36,11 +36,11 @@ public class FormJSON {
         this.subject = subject;
     }
 
-    public String getReceiver() {
+    public List<String> getReceiver() {
         return receiver;
     }
 
-    public void setReceiver(String receiver) {
+    public void setReceiver(List<String> receiver) {
         this.receiver = receiver;
     }
 

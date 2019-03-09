@@ -112,4 +112,18 @@ public class SendMail {
     public void setCreate_at(Date create_at) {
         this.create_at = create_at;
     }
+
+    @Override
+    public String toString() {
+        return "SendMail{" +
+                "id=" + id +
+                ", toEmail='" + toEmail + '\'' +
+                ", title='" + title + '\'' +
+                ", content='" + content + '\'' +
+                ", create_at=" + create_at +
+                ", attachment='" + attachment + '\'' +
+                ", fileName='" + fileName + '\'' +
+                ", url='" + url + '\'' +
+                '}';
+    }
 }

@@ -1,17 +1,19 @@
 <!doctype html>
 <html xmlns:th="http://www.thymeleaf.org">
-<head th:replace="layout :: head"></head>
+<head>
+    <link rel="stylesheet" type="text/css" th:href="@{css/jquery.tagsinput.css}" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js'></script>
+    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/start/jquery-ui.css" />
+    <script type="text/javascript" th:src="@{js/tagsInput.js}" ></script>
+    <script type="text/javascript" th:src="@{js/jq.tagsInput.js}" ></script>
+    <title>Test</title>
+</head>
 <body>
-<nav th:replace="layout :: header"></nav>
-<section>
-    <form action="/upload" class="dropzone needsclick dz-clickable" id="demo-upload">
-
-        <div class="dz-message needsclick">
-            Drop files here or click to upload.<br>
-        </div>
+    <form>
+        <p><label>Email address VALIDATION:</label>
+            <input id='tags_4' type='text' class='tags'></p>
 
     </form>
-    <script src="./js/dropzone.js"></script>
-</section>
 </body>
 </html>

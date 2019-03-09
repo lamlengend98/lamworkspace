@@ -61,4 +61,14 @@ public class FileInfo {
 
     public FileInfo() {
     }
+
+    @Override
+    public String toString() {
+        return "FileInfo{" +
+                "id=" + id +
+                ", id_toEmail=" + id_toEmail +
+                ", fileName='" + fileName + '\'' +
+                ", url='" + url + '\'' +
+                '}';
+    }
 }

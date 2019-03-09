@@ -49,18 +49,15 @@ public class Fetch {
 
                 Mail mail = new Mail();
                 Message messages = message[i];
-                String newLine = "\n---------------------------------";
-                String emailNumber = "\nEmail Number " + (i + 1);
                 String subject = messages.getSubject();
                 String from = messages.getFrom()[0].toString();
 
-                String content= messages.getContent().toString();
                 String body = getContentText(messages);
                 String summary = body;
-                String html;
                 Document document = Jsoup.parse(summary);
                 String text = document.body().text();
                 int id = messages.getMessageNumber();
+                System.out.println(subject);
 
                 mail.setContent(text);
                 mail.setEmailSender(from);

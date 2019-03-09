@@ -4,13 +4,15 @@
 <body>
 <nav th:replace="layout :: header"></nav>
 <section>
-    <div style="font-size: 31px" th:text="${mail.title}"></div>
-    <br>
+    <input type="search" name="keyword" placeholder="Search" />
+    <button data-search="next">&darr;</button>
+    <button data-search="prev">&uarr;</button>
+    <button data-search="clear">✖</button>
     <div style="font-weight:bold; font-size: 20px" th:text="${mail.emailSender}"></div>
     <div>to lam848520</div>
     <br>
     <br>
-    <div style="font-size: 18px" th:text="${mail.content}"></div>
+    <div style="font-size: 18px" class="content" th:text="${mail.content}"></div>
 </section>
 
 <!--<form action="#" th:action="@{/employee/save}" th:object="${mail}"-->
@@ -27,6 +29,7 @@
 <!--    </div>-->
 <!--    <button type="submit" class="btn btn-primary">Save</button>-->
 <!--</form>-->
-
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.es6.js"></script>
+<script type="text/javascript" th:src="@{/js/searchh.js}"></script>
 </body>
 </html>
