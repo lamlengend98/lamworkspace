@@ -1,7 +1,5 @@
 body{color-adjust:exact;}
-h1{
-    background: red
-} 
+
 @media print{
     h1{
     background: red
